@@ -1,0 +1,3812 @@
+[
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 15168,
+   "UTID": 7272595,
+   "flex01": "SS11K_m",
+   "sales_order": 0,
+   "fab_name": "KLA",
+   "commit_date": "4/19/2020",
+   "BuildQtr": "CY20Q2"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29336,
+   "UTID": 7273290,
+   "flex01": "SS12K",
+   "sales_order": 0,
+   "fab_name": "KLA",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31130,
+   "UTID": 7273230,
+   "flex01": "SS11K_m",
+   "sales_order": 0,
+   "fab_name": "KLA",
+   "commit_date": "8/15/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24190,
+   "UTID": 7273262,
+   "flex01": "SF 8660",
+   "sales_order": 119044,
+   "fab_name": "GLOBALFOUNDRIES SINGAPORE (FAB 7H)",
+   "commit_date": "8/15/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25948,
+   "UTID": 7273289,
+   "flex01": "SS11K_m",
+   "sales_order": 119335,
+   "fab_name": "SONY SEMI MFG OITA",
+   "commit_date": "8/22/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24364,
+   "UTID": 7273222,
+   "flex01": "SS10K",
+   "sales_order": 120567,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "8/18/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29342,
+   "UTID": 7273227,
+   "flex01": "SS10K",
+   "sales_order": 120568,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "8/18/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31125,
+   "UTID": 7273263,
+   "flex01": "F1",
+   "sales_order": 120683,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "8/18/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26721,
+   "UTID": 7273188,
+   "flex01": "SS 8660",
+   "sales_order": 118978,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "8/18/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22464,
+   "UTID": 7273231,
+   "flex01": "Aleris 8500",
+   "sales_order": 120041,
+   "fab_name": "TSMC FAB 16",
+   "commit_date": "8/21/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25949,
+   "UTID": 7273272,
+   "flex01": "SS11K_m",
+   "sales_order": 125824,
+   "fab_name": "SK HYNIX M16",
+   "commit_date": "8/21/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25939,
+   "UTID": 7273084,
+   "flex01": "Aleris 8500",
+   "sales_order": 126329,
+   "fab_name": "HUA HONG SEMICONDUCTOR (WUXI)",
+   "commit_date": "8/22/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24139,
+   "UTID": 7273205,
+   "flex01": "Aleris 8370",
+   "sales_order": 127466,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "8/23/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26726,
+   "UTID": 7273211,
+   "flex01": "SS 8660",
+   "sales_order": 126310,
+   "fab_name": "HUA HONG SEMICONDUCTOR (WUXI)",
+   "commit_date": "8/24/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22347,
+   "UTID": 7273203,
+   "flex01": "Aleris 8500",
+   "sales_order": 123047,
+   "fab_name": "SEMICONDUCTOR MANUFACTURING BEIJING",
+   "commit_date": "8/25/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26727,
+   "UTID": 7273248,
+   "flex01": "Aleris 8500",
+   "sales_order": 120049,
+   "fab_name": "TSMC FAB 16",
+   "commit_date": "8/28/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31129,
+   "UTID": 7273286,
+   "flex01": "SS11K_m",
+   "sales_order": 123265,
+   "fab_name": "MICRON FAB 16",
+   "commit_date": "8/28/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26714,
+   "UTID": 7273267,
+   "flex01": "F1",
+   "sales_order": 120708,
+   "fab_name": "TSMC FAB 18 P6",
+   "commit_date": "8/28/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25951,
+   "UTID": 7273296,
+   "flex01": "SS11K",
+   "sales_order": 119587,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "8/28/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29331,
+   "UTID": 7273196,
+   "flex01": "Aleris 8350",
+   "sales_order": 120086,
+   "fab_name": "INTEL IRELAND LTD FAB 24",
+   "commit_date": "8/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 21037,
+   "UTID": 7273115,
+   "flex01": "SS12K",
+   "sales_order": 0,
+   "fab_name": "KLA",
+   "commit_date": "8/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22493,
+   "UTID": 7273275,
+   "flex01": "SS11Ki",
+   "sales_order": 124106,
+   "fab_name": "INTEL CORPORATION FAB D1D",
+   "commit_date": "8/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29392,
+   "UTID": 7273192,
+   "flex01": "Aleris 8350",
+   "sales_order": 122488,
+   "fab_name": "INTEL SEMICON STGE. TECH (DL) LTD",
+   "commit_date": "8/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31135,
+   "UTID": 7273283,
+   "flex01": "F1",
+   "sales_order": 122824,
+   "fab_name": "CHANGXIN JIDIAN (BEIJING) MEMORY",
+   "commit_date": "8/30/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25942,
+   "UTID": 7273280,
+   "flex01": "Aleris 8510",
+   "sales_order": 119278,
+   "fab_name": "GLOBALFOUNDRIES SINGAPORE (FAB 7H)",
+   "commit_date": "8/30/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22468,
+   "UTID": 7273223,
+   "flex01": "SS11K_HBW",
+   "sales_order": 120732,
+   "fab_name": "YANGTZE MEMORY TECHNOLOGIES",
+   "commit_date": "8/30/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26086,
+   "UTID": 7273128,
+   "flex01": "F10-XP",
+   "sales_order": 129886,
+   "fab_name": "SAMSUNG SRD",
+   "commit_date": "8/31/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22472,
+   "UTID": 7273257,
+   "flex01": "Aleris 8500",
+   "sales_order": 118224,
+   "fab_name": "SMIC F16",
+   "commit_date": "9/1/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22476,
+   "UTID": 7273235,
+   "flex01": "LD10",
+   "sales_order": 119674,
+   "fab_name": "STMICROELECTRONICS (CROLLES 2) SAS",
+   "commit_date": "9/6/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 18496,
+   "UTID": 7272623,
+   "flex01": "SS12K",
+   "sales_order": 0,
+   "fab_name": "KLA",
+   "commit_date": "9/8/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24148,
+   "UTID": 7273173,
+   "flex01": "Aleris 8370",
+   "sales_order": 127468,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "9/8/2022",
+   "BuildQtr": "CY22Q2"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25937,
+   "UTID": 7273182,
+   "flex01": "Aleris 8350",
+   "sales_order": 126326,
+   "fab_name": "HUA HONG SEMICONDUCTOR (WUXI)",
+   "commit_date": "9/8/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29351,
+   "UTID": 7273239,
+   "flex01": "SS11K",
+   "sales_order": 124028,
+   "fab_name": "SMSC (S2B)",
+   "commit_date": "9/8/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26720,
+   "UTID": 7273201,
+   "flex01": "SS12K",
+   "sales_order": 127438,
+   "fab_name": "TSMC FAB 12 P6",
+   "commit_date": "9/11/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22480,
+   "UTID": 7273216,
+   "flex01": "SS9010",
+   "sales_order": 119066,
+   "fab_name": "TEXAS INSTRUMENTS RFAB 2",
+   "commit_date": "9/11/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22382,
+   "UTID": 7273146,
+   "flex01": "F10-XP",
+   "sales_order": 129248,
+   "fab_name": "INTEL CORPORATION FAB D1D",
+   "commit_date": "9/12/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22505,
+   "UTID": 7273287,
+   "flex01": "F1",
+   "sales_order": 122825,
+   "fab_name": "CHANGXIN JIDIAN (BEIJING) MEMORY",
+   "commit_date": "9/12/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26712,
+   "UTID": 7273240,
+   "flex01": "SF 8660",
+   "sales_order": 119054,
+   "fab_name": "GLOBALFOUNDRIES SINGAPORE (FAB 7H)",
+   "commit_date": "9/12/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22486,
+   "UTID": 7273258,
+   "flex01": "SS11K_m",
+   "sales_order": 125426,
+   "fab_name": "SK HYNIX SEMICONDUCTOR (CHINA) C2F",
+   "commit_date": "9/12/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31142,
+   "UTID": 7273314,
+   "flex01": "SS10K 3D",
+   "sales_order": 124190,
+   "fab_name": "STMICROELECTRONICS",
+   "commit_date": "9/12/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29347,
+   "UTID": 7273285,
+   "flex01": "F1",
+   "sales_order": 128913,
+   "fab_name": "TSMC FAB 15",
+   "commit_date": "9/13/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22489,
+   "UTID": 7273315,
+   "flex01": "SS11K",
+   "sales_order": 120550,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "9/13/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25941,
+   "UTID": 7273270,
+   "flex01": "SS9010",
+   "sales_order": 119074,
+   "fab_name": "TEXAS INSTRUMENTS RFAB 2",
+   "commit_date": "9/15/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24125,
+   "UTID": 7273260,
+   "flex01": "SF 8660 HT",
+   "sales_order": 117091,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "9/15/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22469,
+   "UTID": 7273237,
+   "flex01": "SF 8660",
+   "sales_order": 119055,
+   "fab_name": "GLOBALFOUNDRIES SINGAPORE (FAB 7H)",
+   "commit_date": "9/15/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31132,
+   "UTID": 7273305,
+   "flex01": "SS11K",
+   "sales_order": 124040,
+   "fab_name": "SMSC (S2B)",
+   "commit_date": "9/15/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26715,
+   "UTID": 7273259,
+   "flex01": "F1",
+   "sales_order": 120729,
+   "fab_name": "YANGTZE MEMORY TECHNOLOGIES",
+   "commit_date": "9/15/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26722,
+   "UTID": 7273301,
+   "flex01": "SS11K",
+   "sales_order": 124036,
+   "fab_name": "SMSC (S2B)",
+   "commit_date": "9/15/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22511,
+   "UTID": 7273250,
+   "flex01": "Aleris 8350",
+   "sales_order": 126328,
+   "fab_name": "HUA HONG SEMICONDUCTOR (WUXI)",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22482,
+   "UTID": 7273242,
+   "flex01": "LD1",
+   "sales_order": 128657,
+   "fab_name": "SEMICONDUCTOR MANUFACTURING BEIJING",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24283,
+   "UTID": 7273220,
+   "flex01": "F20",
+   "sales_order": 127349,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "9/18/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26718,
+   "UTID": 7273251,
+   "flex01": "Aleris 8350",
+   "sales_order": 128665,
+   "fab_name": "SEMICONDUCTOR MANUFACTURING BEIJING",
+   "commit_date": "9/19/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22487,
+   "UTID": 7273309,
+   "flex01": "SS11Ki",
+   "sales_order": 124108,
+   "fab_name": "INTEL CORPORATION FAB D1D",
+   "commit_date": "9/19/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22465,
+   "UTID": 7273204,
+   "flex01": "Aleris 8370",
+   "sales_order": 125372,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "9/19/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22495,
+   "UTID": 7273327,
+   "flex01": "SS11K",
+   "sales_order": 120620,
+   "fab_name": "SIEN (QINGDAO) INTEGRATED CIRCUITS",
+   "commit_date": "9/19/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31140,
+   "UTID": 7273313,
+   "flex01": "SS10K 3D",
+   "sales_order": 124024,
+   "fab_name": "SMSC (S2B)",
+   "commit_date": "9/28/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24188,
+   "UTID": 7273279,
+   "flex01": "SF 8660",
+   "sales_order": 119080,
+   "fab_name": "GLOBALFOUNDRIES SINGAPORE (FAB 7H)",
+   "commit_date": "9/20/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22923,
+   "UTID": 7273292,
+   "flex01": "SF 8660 HT",
+   "sales_order": 124205,
+   "fab_name": "INFINEON TECHNOLOGIES AG",
+   "commit_date": "9/20/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24186,
+   "UTID": 7273232,
+   "flex01": "Aleris 8350",
+   "sales_order": 122262,
+   "fab_name": "SMIC SZ F6",
+   "commit_date": "9/20/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25849,
+   "UTID": 7273311,
+   "flex01": "Aleris 8350",
+   "sales_order": 128693,
+   "fab_name": "SEMICONDUCTOR MANUFACTURING BEIJING",
+   "commit_date": "9/28/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29343,
+   "UTID": 7273291,
+   "flex01": "F1",
+   "sales_order": 120684,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "9/21/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29339,
+   "UTID": 7273218,
+   "flex01": "Aleris 8350",
+   "sales_order": 128792,
+   "fab_name": "HUA HONG SEMICONDUCTOR (WUXI)",
+   "commit_date": "9/21/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26731,
+   "UTID": 7273236,
+   "flex01": "SS9010",
+   "sales_order": 119620,
+   "fab_name": "SHANGHAI DINGTAI JIANGXIN",
+   "commit_date": "9/21/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25955,
+   "UTID": 7273266,
+   "flex01": "F1",
+   "sales_order": 124881,
+   "fab_name": "SAMSUNG P2L",
+   "commit_date": "9/22/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25956,
+   "UTID": 7273269,
+   "flex01": "F1",
+   "sales_order": 123121,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "9/22/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26713,
+   "UTID": 7273324,
+   "flex01": "Aleris 8500",
+   "sales_order": 123045,
+   "fab_name": "SEMICONDUCTOR MANUFACTURING BEIJING",
+   "commit_date": "9/22/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25934,
+   "UTID": 7273320,
+   "flex01": "Aleris 8500",
+   "sales_order": 123042,
+   "fab_name": "SEMICONDUCTOR MANUFACTURING BEIJING",
+   "commit_date": "9/22/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24127,
+   "UTID": 7273307,
+   "flex01": "F1",
+   "sales_order": 124023,
+   "fab_name": "SMSC (S2B)",
+   "commit_date": "9/22/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25931,
+   "UTID": 7273278,
+   "flex01": "SF 8660 HT",
+   "sales_order": 118964,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "9/22/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22471,
+   "UTID": 7273312,
+   "flex01": "Aleris 8500",
+   "sales_order": 123043,
+   "fab_name": "SEMICONDUCTOR MANUFACTURING BEIJING",
+   "commit_date": "9/22/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29349,
+   "UTID": 7273277,
+   "flex01": "SS11K",
+   "sales_order": 124041,
+   "fab_name": "SMSC (S2B)",
+   "commit_date": "9/22/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25944,
+   "UTID": 7273329,
+   "flex01": "SS10K 3D",
+   "sales_order": 122814,
+   "fab_name": "CHANGXIN XINQIAO MEMORY",
+   "commit_date": "9/28/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26084,
+   "UTID": 7273200,
+   "flex01": "Aleris 8350",
+   "sales_order": 126327,
+   "fab_name": "HUA HONG SEMICONDUCTOR (WUXI)",
+   "commit_date": "9/22/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26711,
+   "UTID": 7273233,
+   "flex01": "Aleris 8350",
+   "sales_order": 122855,
+   "fab_name": "SMNC (B2B)",
+   "commit_date": "10/4/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22512,
+   "UTID": 7273256,
+   "flex01": "Aleris 8350",
+   "sales_order": 122854,
+   "fab_name": "SMNC (B2B)",
+   "commit_date": "10/5/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29352,
+   "UTID": 7273276,
+   "flex01": "SS11K_HBW",
+   "sales_order": 121945,
+   "fab_name": "YANGTZE MEMORY TECHNOLOGIES",
+   "commit_date": "9/22/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31127,
+   "UTID": 7273318,
+   "flex01": "F1",
+   "sales_order": 122247,
+   "fab_name": "YANGTZE MEMORY TECHNOLOGIES",
+   "commit_date": "9/22/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26730,
+   "UTID": 7273281,
+   "flex01": "SS9010",
+   "sales_order": 120035,
+   "fab_name": "TSMC FAB 16",
+   "commit_date": "9/22/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26716,
+   "UTID": 7273316,
+   "flex01": "F1",
+   "sales_order": 128987,
+   "fab_name": "TSMC FAB 15",
+   "commit_date": "9/28/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25950,
+   "UTID": 7273273,
+   "flex01": "LS12K",
+   "sales_order": 125637,
+   "fab_name": "INTEL CORPORATION FAB D1D",
+   "commit_date": "9/28/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22488,
+   "UTID": 7273069,
+   "flex01": "Aleris 9350",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG L-S3",
+   "commit_date": "10/3/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26725,
+   "UTID": 7273226,
+   "flex01": "LS12K",
+   "sales_order": 125568,
+   "fab_name": "INTEL CORPORATION FAB D1D",
+   "commit_date": "9/28/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24189,
+   "UTID": 7273241,
+   "flex01": "SF 8660",
+   "sales_order": 119081,
+   "fab_name": "GLOBALFOUNDRIES SINGAPORE (FAB 7H)",
+   "commit_date": "9/28/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22492,
+   "UTID": 7273325,
+   "flex01": "SS10K 3D EP",
+   "sales_order": 120603,
+   "fab_name": "PSMC FAB P5",
+   "commit_date": "9/28/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22497,
+   "UTID": 7273330,
+   "flex01": "SS11K",
+   "sales_order": 120552,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "9/28/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25971,
+   "UTID": 7273288,
+   "flex01": "SS9010",
+   "sales_order": 119075,
+   "fab_name": "TEXAS INSTRUMENTS RFAB 2",
+   "commit_date": "9/28/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22477,
+   "UTID": 7273304,
+   "flex01": "SS10K",
+   "sales_order": 120560,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22484,
+   "UTID": 7273298,
+   "flex01": "SS10K",
+   "sales_order": 120558,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22478,
+   "UTID": 7273302,
+   "flex01": "SS10K",
+   "sales_order": 120559,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25959,
+   "UTID": 7273284,
+   "flex01": "F1",
+   "sales_order": 124886,
+   "fab_name": "SAMSUNG P2L",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25932,
+   "UTID": 7273238,
+   "flex01": "SF 8660",
+   "sales_order": 119083,
+   "fab_name": "GLOBALFOUNDRIES SINGAPORE (FAB 7H)",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25963,
+   "UTID": 7273244,
+   "flex01": "SF 8660",
+   "sales_order": 119088,
+   "fab_name": "GLOBALFOUNDRIES SINGAPORE (FAB 7H)",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29340,
+   "UTID": 7273282,
+   "flex01": "Aleris 8350",
+   "sales_order": 118153,
+   "fab_name": "INTEL CORPORATION FAB 11X",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29344,
+   "UTID": 7273306,
+   "flex01": "F1",
+   "sales_order": 120686,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25961,
+   "UTID": 7273245,
+   "flex01": "SF 8660",
+   "sales_order": 119084,
+   "fab_name": "GLOBALFOUNDRIES SINGAPORE (FAB 7H)",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25850,
+   "UTID": 7273303,
+   "flex01": "SF 8660",
+   "sales_order": 119082,
+   "fab_name": "GLOBALFOUNDRIES SINGAPORE (FAB 7H)",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29346,
+   "UTID": 7273297,
+   "flex01": "F1",
+   "sales_order": 120682,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22466,
+   "UTID": 7273229,
+   "flex01": "Aleris 8350",
+   "sales_order": 127079,
+   "fab_name": "SK HYNIX M15",
+   "commit_date": "9/30/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26728,
+   "UTID": 7273300,
+   "flex01": "SS10K-F",
+   "sales_order": 121139,
+   "fab_name": "TSMC FAB 14 P8",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22479,
+   "UTID": 7273310,
+   "flex01": "SS10K",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 15",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22490,
+   "UTID": 7273317,
+   "flex01": "SS11Ki",
+   "sales_order": 124094,
+   "fab_name": "INTEL CORPORATION FAB D1D",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26717,
+   "UTID": 7273322,
+   "flex01": "F1",
+   "sales_order": 120685,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25943,
+   "UTID": 7273319,
+   "flex01": "SS10K 3D",
+   "sales_order": 123540,
+   "fab_name": "WESTERN DIGITAL",
+   "commit_date": "9/29/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24110,
+   "UTID": 7273321,
+   "flex01": "Aleris 8510",
+   "sales_order": 118922,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "10/2/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25957,
+   "UTID": 7273243,
+   "flex01": "F1",
+   "sales_order": 120688,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "10/3/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22929,
+   "UTID": 7273346,
+   "flex01": "Aleris 8500",
+   "sales_order": 118959,
+   "fab_name": "UMC FAB 12A TAINAN",
+   "commit_date": "10/3/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31148,
+   "UTID": 7273344,
+   "flex01": "F1",
+   "sales_order": 128656,
+   "fab_name": "BEIJING NAURA MICROELECTRONICS",
+   "commit_date": "10/3/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25958,
+   "UTID": 7273347,
+   "flex01": "F1",
+   "sales_order": 126107,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "10/31/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24290,
+   "UTID": 7273261,
+   "flex01": "SS 8660",
+   "sales_order": 118980,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "10/11/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25977,
+   "UTID": 7273355,
+   "flex01": "SS11K_m",
+   "sales_order": 127782,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "10/11/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26742,
+   "UTID": 7273351,
+   "flex01": "SS11K_m",
+   "sales_order": 123071,
+   "fab_name": "NANYA FAB 3",
+   "commit_date": "10/11/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22964,
+   "UTID": 7273354,
+   "flex01": "SS11K",
+   "sales_order": 126050,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "10/12/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26738,
+   "UTID": 7273357,
+   "flex01": "F1",
+   "sales_order": 126149,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "10/12/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22954,
+   "UTID": 7273350,
+   "flex01": "SS10K-F",
+   "sales_order": 123114,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "10/12/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24286,
+   "UTID": 7273372,
+   "flex01": "SF 8660",
+   "sales_order": 126885,
+   "fab_name": "AMS-OSRAM INTERNATIONAL GMBH",
+   "commit_date": "10/13/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22925,
+   "UTID": 7273359,
+   "flex01": "SS9010",
+   "sales_order": 124854,
+   "fab_name": "TEXAS INSTRUMENTS RFAB 2",
+   "commit_date": "10/13/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25936,
+   "UTID": 7273332,
+   "flex01": "Aleris 8350",
+   "sales_order": 0,
+   "fab_name": "SK HYNIX M16",
+   "commit_date": "10/27/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29338,
+   "UTID": 7273264,
+   "flex01": "SS12K",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 12 P5",
+   "commit_date": "10/15/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22990,
+   "UTID": 7273362,
+   "flex01": "Aleris 8500",
+   "sales_order": 123170,
+   "fab_name": "SMIC SZ F6",
+   "commit_date": "10/18/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31121,
+   "UTID": 7273224,
+   "flex01": "Aleris 8350",
+   "sales_order": 126605,
+   "fab_name": "SAMSUNG P3D",
+   "commit_date": "10/18/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22926,
+   "UTID": 7273361,
+   "flex01": "SS 8660",
+   "sales_order": 119071,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "10/18/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24295,
+   "UTID": 7273363,
+   "flex01": "Aleris 8500",
+   "sales_order": 122261,
+   "fab_name": "SMIC SZ F6",
+   "commit_date": "10/19/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26733,
+   "UTID": 7273369,
+   "flex01": "Aleris 8350",
+   "sales_order": 126602,
+   "fab_name": "SAMSUNG P3D",
+   "commit_date": "10/19/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22951,
+   "UTID": 7273364,
+   "flex01": "SF 8660",
+   "sales_order": 126113,
+   "fab_name": "NEXCHIP SEMICONDUCTOR CORPORATION",
+   "commit_date": "10/19/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24131,
+   "UTID": 7273365,
+   "flex01": "Aleris 8350",
+   "sales_order": 117909,
+   "fab_name": "GALAXYCORE SEMICONDUCTOR (SHANGHAI)",
+   "commit_date": "10/19/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22501,
+   "UTID": 7273333,
+   "flex01": "F1",
+   "sales_order": 126147,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "10/20/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24282,
+   "UTID": 7273339,
+   "flex01": "SS10K 3D",
+   "sales_order": 122813,
+   "fab_name": "CHANGXIN XINQIAO MEMORY",
+   "commit_date": "10/20/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24187,
+   "UTID": 7273295,
+   "flex01": "Aleris 8350",
+   "sales_order": 0,
+   "fab_name": "HUA HONG SEMICONDUCTOR (WUXI)",
+   "commit_date": "10/20/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26729,
+   "UTID": 7273338,
+   "flex01": "SS10K 3D",
+   "sales_order": 122816,
+   "fab_name": "CHANGXIN XINQIAO MEMORY",
+   "commit_date": "10/20/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24707,
+   "UTID": 7273210,
+   "flex01": "Aleris 8370",
+   "sales_order": 125366,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "10/20/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22481,
+   "UTID": 7273293,
+   "flex01": "SS10K 3D EP",
+   "sales_order": 122103,
+   "fab_name": "KIOXIA CORP Y7",
+   "commit_date": "10/20/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22955,
+   "UTID": 7273371,
+   "flex01": "SS10K",
+   "sales_order": 129307,
+   "fab_name": "TSMC FAB 15B",
+   "commit_date": "10/20/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31153,
+   "UTID": 7273370,
+   "flex01": "SS10K 3D EP",
+   "sales_order": 127796,
+   "fab_name": "APPLIED MATERIALS",
+   "commit_date": "10/20/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31147,
+   "UTID": 7273343,
+   "flex01": "Aleris 8350",
+   "sales_order": 120091,
+   "fab_name": "INTEL IRELAND LTD FAB 24",
+   "commit_date": "10/22/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22343,
+   "UTID": 7273199,
+   "flex01": "Aleris 8370",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "10/23/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29375,
+   "UTID": 7273374,
+   "flex01": "SS11K_m",
+   "sales_order": 125639,
+   "fab_name": "SK HYNIX M14",
+   "commit_date": "10/23/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22504,
+   "UTID": 7273337,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "10/23/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29330,
+   "UTID": 7273349,
+   "flex01": "SS 8660",
+   "sales_order": 125474,
+   "fab_name": "KIOXIA CORP Y7",
+   "commit_date": "10/24/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22972,
+   "UTID": 7273380,
+   "flex01": "SS11K",
+   "sales_order": 126051,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "10/24/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24371,
+   "UTID": 7273377,
+   "flex01": "SS10K-F",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "10/24/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29359,
+   "UTID": 7273378,
+   "flex01": "Aleris 8350",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "10/24/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24339,
+   "UTID": 7273265,
+   "flex01": "Aleris 9350",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG L-S3",
+   "commit_date": "10/25/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22924,
+   "UTID": 7273382,
+   "flex01": "Aleris 8350",
+   "sales_order": 126442,
+   "fab_name": "SAMSUNG P3D",
+   "commit_date": "10/25/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26689,
+   "UTID": 7273197,
+   "flex01": "Aleris 8370",
+   "sales_order": 125361,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "10/26/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25947,
+   "UTID": 7273213,
+   "flex01": "SS11K_s",
+   "sales_order": 127781,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "10/26/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25935,
+   "UTID": 7273340,
+   "flex01": "Aleris 8510",
+   "sales_order": 123294,
+   "fab_name": "NEXCHIP SEMICONDUCTOR CORPORATION",
+   "commit_date": "10/30/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 21043,
+   "UTID": 7273099,
+   "flex01": "F10-L",
+   "sales_order": 125121,
+   "fab_name": "TSMC FAB 12 P7",
+   "commit_date": "10/30/2022",
+   "BuildQtr": "CY22Q2"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31158,
+   "UTID": 7273388,
+   "flex01": "Aleris 8350",
+   "sales_order": 126606,
+   "fab_name": "SAMSUNG P3D",
+   "commit_date": "10/30/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24285,
+   "UTID": 7273255,
+   "flex01": "Aleris 8350",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG S4",
+   "commit_date": "10/31/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25968,
+   "UTID": 7273373,
+   "flex01": "SS10K-F",
+   "sales_order": 125261,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "10/31/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25969,
+   "UTID": 7273389,
+   "flex01": "SS10K-F",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "10/31/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29368,
+   "UTID": 7273368,
+   "flex01": "F1",
+   "sales_order": 123374,
+   "fab_name": "SIEN (QINGDAO) INTEGRATED CIRCUITS",
+   "commit_date": "11/1/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22485,
+   "UTID": 7273308,
+   "flex01": "F20",
+   "sales_order": 127350,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "11/1/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26743,
+   "UTID": 7273383,
+   "flex01": "SS11K_m",
+   "sales_order": 122538,
+   "fab_name": "SONY SEMI MFG NAGASAKI FAB5 12\"",
+   "commit_date": "11/1/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25979,
+   "UTID": 7273385,
+   "flex01": "SS11K_m",
+   "sales_order": 122540,
+   "fab_name": "SONY SEMI MFG NAGASAKI FAB5 12\"",
+   "commit_date": "11/1/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25970,
+   "UTID": 7273390,
+   "flex01": "SS10K 3D",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "11/1/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24287,
+   "UTID": 7273381,
+   "flex01": "Aleris 8350",
+   "sales_order": 126604,
+   "fab_name": "SAMSUNG P3D",
+   "commit_date": "11/2/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22959,
+   "UTID": 7273391,
+   "flex01": "SS 8660",
+   "sales_order": 118981,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "11/2/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29358,
+   "UTID": 7273366,
+   "flex01": "Aleris 8370",
+   "sales_order": 125369,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "11/2/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24284,
+   "UTID": 7273334,
+   "flex01": "SS10K 3D",
+   "sales_order": 120622,
+   "fab_name": "SIEN (QINGDAO) INTEGRATED CIRCUITS",
+   "commit_date": "11/3/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22991,
+   "UTID": 7273345,
+   "flex01": "Aleris 8510",
+   "sales_order": 120468,
+   "fab_name": "PSMC FAB P5",
+   "commit_date": "11/3/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25983,
+   "UTID": 7273396,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "11/3/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25980,
+   "UTID": 7273395,
+   "flex01": "F20",
+   "sales_order": 0,
+   "fab_name": "KLA",
+   "commit_date": "11/3/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29357,
+   "UTID": 7273397,
+   "flex01": "Aleris 8350",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "11/6/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25946,
+   "UTID": 7273398,
+   "flex01": "SS11K_s",
+   "sales_order": 126600,
+   "fab_name": "SAMSUNG P3D",
+   "commit_date": "11/7/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31146,
+   "UTID": 7273401,
+   "flex01": "Aleris 8350",
+   "sales_order": 126609,
+   "fab_name": "SAMSUNG P3D",
+   "commit_date": "11/8/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22928,
+   "UTID": 7273403,
+   "flex01": "Aleris 8370",
+   "sales_order": 125374,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "11/9/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31149,
+   "UTID": 7273404,
+   "flex01": "F1",
+   "sales_order": 126152,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "11/9/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25960,
+   "UTID": 7273394,
+   "flex01": "Aleris 8500",
+   "sales_order": 118960,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "11/13/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25984,
+   "UTID": 7273407,
+   "flex01": "F1",
+   "sales_order": 126155,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "11/13/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31154,
+   "UTID": 7273408,
+   "flex01": "SS10K 3D DNS",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "11/13/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26735,
+   "UTID": 7273410,
+   "flex01": "SS 8660",
+   "sales_order": 118985,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "11/14/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26734,
+   "UTID": 7273402,
+   "flex01": "SS 8660",
+   "sales_order": 118983,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "11/14/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24289,
+   "UTID": 7273405,
+   "flex01": "SF 8660 HT",
+   "sales_order": 118970,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "11/14/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29360,
+   "UTID": 7273411,
+   "flex01": "Aleris 8350",
+   "sales_order": 126607,
+   "fab_name": "SAMSUNG P3D",
+   "commit_date": "11/14/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29249,
+   "UTID": 7273252,
+   "flex01": "Aleris 8350",
+   "sales_order": 128094,
+   "fab_name": "SAMSUNG P3D",
+   "commit_date": "11/15/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22499,
+   "UTID": 7273172,
+   "flex01": "SS12K",
+   "sales_order": 0,
+   "fab_name": "KLA",
+   "commit_date": "11/15/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22500,
+   "UTID": 7273209,
+   "flex01": "SS12K",
+   "sales_order": 0,
+   "fab_name": "KLA",
+   "commit_date": "11/15/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31122,
+   "UTID": 7273326,
+   "flex01": "Aleris 8370",
+   "sales_order": 125364,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "11/15/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29378,
+   "UTID": 7273412,
+   "flex01": "SS11K",
+   "sales_order": 129034,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "11/15/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29367,
+   "UTID": 7273353,
+   "flex01": "SS10K",
+   "sales_order": 122951,
+   "fab_name": "CANON UTSUNOMIYA OPTICAL PROD PLNT",
+   "commit_date": "11/16/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26740,
+   "UTID": 7273414,
+   "flex01": "F1",
+   "sales_order": 126115,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "11/16/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29369,
+   "UTID": 7273415,
+   "flex01": "F1",
+   "sales_order": 126135,
+   "fab_name": "TSMC FAB 18 P1",
+   "commit_date": "11/16/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22961,
+   "UTID": 7273413,
+   "flex01": "SS10K 3D EP",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "11/16/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22984,
+   "UTID": 7273417,
+   "flex01": "F10-XP",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "11/17/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24293,
+   "UTID": 7273418,
+   "flex01": "F10-XP",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "11/17/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22978,
+   "UTID": 7273341,
+   "flex01": "SS11K_M",
+   "sales_order": 123068,
+   "fab_name": "NANYA FAB 3",
+   "commit_date": "11/20/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29376,
+   "UTID": 7273420,
+   "flex01": "SS11K",
+   "sales_order": 129037,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "11/20/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25985,
+   "UTID": 7273419,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "11/20/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26751,
+   "UTID": 7273422,
+   "flex01": "SS10K 3D",
+   "sales_order": 126290,
+   "fab_name": "WUHAN CHUXING TECHNOLOGY",
+   "commit_date": "11/21/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24288,
+   "UTID": 7273409,
+   "flex01": "SF 8660 HT",
+   "sales_order": 118966,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "11/22/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31150,
+   "UTID": 7273426,
+   "flex01": "F1",
+   "sales_order": 128991,
+   "fab_name": "TSMC FAB 15",
+   "commit_date": "11/22/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25973,
+   "UTID": 7273425,
+   "flex01": "SS10K 3D",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "11/22/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22960,
+   "UTID": 7273427,
+   "flex01": "SS10K",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "11/23/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22953,
+   "UTID": 7273428,
+   "flex01": "LD1",
+   "sales_order": 0,
+   "fab_name": "SMNC (B2B)",
+   "commit_date": "11/24/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29370,
+   "UTID": 7273429,
+   "flex01": "F1",
+   "sales_order": 126286,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "11/23/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25986,
+   "UTID": 7273430,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "12/13/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31155,
+   "UTID": 7273432,
+   "flex01": "SS10K 3D DNS",
+   "sales_order": 0,
+   "fab_name": "SK HYNIX M15P2",
+   "commit_date": "11/27/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22963,
+   "UTID": 7273433,
+   "flex01": "SS10K 3D",
+   "sales_order": 126276,
+   "fab_name": "WUHAN CHUXING TECHNOLOGY",
+   "commit_date": "11/28/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29362,
+   "UTID": 7273434,
+   "flex01": "Aleris 8350",
+   "sales_order": 126608,
+   "fab_name": "SAMSUNG P3D",
+   "commit_date": "11/28/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29341,
+   "UTID": 7273328,
+   "flex01": "Aleris 8370",
+   "sales_order": 125362,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "11/29/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22957,
+   "UTID": 7273436,
+   "flex01": "SF 8660 HT",
+   "sales_order": 119073,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "11/29/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22975,
+   "UTID": 7273375,
+   "flex01": "SS12K SO2",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P2D",
+   "commit_date": "11/30/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25938,
+   "UTID": 7273352,
+   "flex01": "SS10K 3D EP",
+   "sales_order": 120602,
+   "fab_name": "PSMC FAB P5",
+   "commit_date": "11/30/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29377,
+   "UTID": 7273406,
+   "flex01": "SS11K",
+   "sales_order": 129039,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "11/30/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24291,
+   "UTID": 7273393,
+   "flex01": "SS11Ki",
+   "sales_order": 122030,
+   "fab_name": "INTEL IRELAND LTD FAB 24",
+   "commit_date": "11/30/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29379,
+   "UTID": 7273435,
+   "flex01": "SS11K_m",
+   "sales_order": 125828,
+   "fab_name": "SK HYNIX M14-2",
+   "commit_date": "11/30/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22491,
+   "UTID": 7273376,
+   "flex01": "SS10K 3D EP",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "11/30/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22502,
+   "UTID": 7273253,
+   "flex01": "F20",
+   "sales_order": 127351,
+   "fab_name": "SAMSUNG P2F",
+   "commit_date": "12/1/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24128,
+   "UTID": 7273336,
+   "flex01": "F1-S",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3D",
+   "commit_date": "12/1/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26739,
+   "UTID": 7273387,
+   "flex01": "F1",
+   "sales_order": 122114,
+   "fab_name": "YANGTZE MEMORY TECHNOLOGIES",
+   "commit_date": "12/1/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25962,
+   "UTID": 7273438,
+   "flex01": "SF 8660 HT",
+   "sales_order": 123218,
+   "fab_name": "MEMC LLC",
+   "commit_date": "12/1/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29361,
+   "UTID": 7273424,
+   "flex01": "Aleris 8350",
+   "sales_order": 120459,
+   "fab_name": "KOOKJE ELECTRIC KOREA CO.,LTD",
+   "commit_date": "12/1/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26732,
+   "UTID": 7273384,
+   "flex01": "Aleris 8510",
+   "sales_order": 120465,
+   "fab_name": "PSMC FAB P5",
+   "commit_date": "12/4/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26749,
+   "UTID": 7273379,
+   "flex01": "SS10K 3D EP",
+   "sales_order": 120605,
+   "fab_name": "PSMC FAB P5",
+   "commit_date": "12/4/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31151,
+   "UTID": 7273440,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 15B",
+   "commit_date": "12/4/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22956,
+   "UTID": 7273439,
+   "flex01": "SS10K",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "12/4/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31156,
+   "UTID": 7273443,
+   "flex01": "SS10K-F",
+   "sales_order": 125272,
+   "fab_name": "TSMC FAB 15",
+   "commit_date": "12/5/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24134,
+   "UTID": 7273441,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "12/5/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29380,
+   "UTID": 7273442,
+   "flex01": "SS10K 3D DNS",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "12/5/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24109,
+   "UTID": 7273234,
+   "flex01": "Aleris 8370",
+   "sales_order": 125370,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "12/6/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22470,
+   "UTID": 7273144,
+   "flex01": "Aleris 8370",
+   "sales_order": 125371,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "12/6/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29363,
+   "UTID": 7273444,
+   "flex01": "Aleris 8350",
+   "sales_order": 126300,
+   "fab_name": "WUHAN CHUXING TECHNOLOGY",
+   "commit_date": "12/6/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22966,
+   "UTID": 7273447,
+   "flex01": "SS11K",
+   "sales_order": 126248,
+   "fab_name": "PXW SEMICONDUCTOR MANUFACTORY CO.,",
+   "commit_date": "12/7/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22958,
+   "UTID": 7273446,
+   "flex01": "SS10K",
+   "sales_order": 126293,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "12/7/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25954,
+   "UTID": 7273448,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "KLA",
+   "commit_date": "12/7/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22980,
+   "UTID": 7273449,
+   "flex01": "F1",
+   "sales_order": 128292,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "12/8/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25933,
+   "UTID": 7273450,
+   "flex01": "Aleris 8370",
+   "sales_order": 125363,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "12/8/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29372,
+   "UTID": 7273452,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "12/11/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31152,
+   "UTID": 7273453,
+   "flex01": "F1",
+   "sales_order": 126243,
+   "fab_name": "PXW SEMICONDUCTOR MANUFACTORY CO.,",
+   "commit_date": "12/11/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25972,
+   "UTID": 7273360,
+   "flex01": "SS10K 3D",
+   "sales_order": 126245,
+   "fab_name": "PXW SEMICONDUCTOR MANUFACTORY CO.,",
+   "commit_date": "12/12/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29371,
+   "UTID": 7273431,
+   "flex01": "F1",
+   "sales_order": 123373,
+   "fab_name": "SIEN (QINGDAO) INTEGRATED CIRCUITS",
+   "commit_date": "12/12/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24292,
+   "UTID": 7273455,
+   "flex01": "F1",
+   "sales_order": 126244,
+   "fab_name": "PXW SEMICONDUCTOR MANUFACTORY CO.,",
+   "commit_date": "12/12/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22967,
+   "UTID": 7273454,
+   "flex01": "SS11K_HBW",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "12/12/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25964,
+   "UTID": 7273456,
+   "flex01": "Aleris 8500",
+   "sales_order": 118932,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "12/12/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25989,
+   "UTID": 7273457,
+   "flex01": "F1",
+   "sales_order": 122612,
+   "fab_name": "ASM JAPAN",
+   "commit_date": "12/12/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24132,
+   "UTID": 7273392,
+   "flex01": "SF 8660",
+   "sales_order": 123893,
+   "fab_name": "OSRAM OPTO SEMICONDUCTOR (FEK2)",
+   "commit_date": "12/13/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24135,
+   "UTID": 7273459,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "12/13/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22968,
+   "UTID": 7273458,
+   "flex01": "SS11K_HBW",
+   "sales_order": 121946,
+   "fab_name": "YANGTZE MEMORY TECHNOLOGIES",
+   "commit_date": "12/13/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29364,
+   "UTID": 7273228,
+   "flex01": "SF 8660",
+   "sales_order": 126163,
+   "fab_name": "INFINEON 300MM FAB",
+   "commit_date": "12/13/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25967,
+   "UTID": 7273294,
+   "flex01": "Aleris 8350",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "12/13/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22969,
+   "UTID": 7273295,
+   "flex01": "SS11K_HBW",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "12/14/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25988,
+   "UTID": 7273296,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "12/14/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25975,
+   "UTID": 7273297,
+   "flex01": "SS10K 3D",
+   "sales_order": 0,
+   "fab_name": "STMICROELECTRONICS (CROLLES 2) SAS",
+   "commit_date": "12/14/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22506,
+   "UTID": 7273335,
+   "flex01": "F10-L",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 12 P8",
+   "commit_date": "12/15/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22981,
+   "UTID": 7273423,
+   "flex01": "F20",
+   "sales_order": 0,
+   "fab_name": "YANGTZE MEMORY TECHNOLOGIES",
+   "commit_date": "12/15/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31141,
+   "UTID": 7273541,
+   "flex01": "SS10K",
+   "sales_order": 126296,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "12/15/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22503,
+   "UTID": 7273331,
+   "flex01": "F10-L",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 12 P8",
+   "commit_date": "12/15/2022",
+   "BuildQtr": "CY22Q3"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22965,
+   "UTID": 7273535,
+   "flex01": "LS12K",
+   "sales_order": 125638,
+   "fab_name": "INTEL CORPORATION FAB D1D",
+   "commit_date": "12/15/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25974,
+   "UTID": 7273421,
+   "flex01": "SS12K",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 12 P8",
+   "commit_date": "12/15/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25982,
+   "UTID": 7273416,
+   "flex01": "SS11K",
+   "sales_order": 126246,
+   "fab_name": "PXW SEMICONDUCTOR MANUFACTORY CO.,",
+   "commit_date": "12/15/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22970,
+   "UTID": 7273538,
+   "flex01": "SS11K",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "1/1/2023",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22380,
+   "UTID": 7273274,
+   "flex01": "F10-XP",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG SRD",
+   "commit_date": "12/15/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 31136,
+   "UTID": 7273323,
+   "flex01": "F20",
+   "sales_order": 126712,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "12/15/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25990,
+   "UTID": 7273537,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "12/19/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25976,
+   "UTID": 7273342,
+   "flex01": "SS11K",
+   "sales_order": 129047,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "12/20/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22979,
+   "UTID": 7273348,
+   "flex01": "SS11K",
+   "sales_order": 129003,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "12/20/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26746,
+   "UTID": 7273534,
+   "flex01": "LS12K",
+   "sales_order": 125646,
+   "fab_name": "INTEL CORPORATION FAB D1D",
+   "commit_date": "12/20/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22930,
+   "UTID": 7273542,
+   "flex01": "Aleris 8350",
+   "sales_order": 0,
+   "fab_name": "HUA HONG SEMICONDUCTOR (WUXI)",
+   "commit_date": "12/20/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24372,
+   "UTID": 7273475,
+   "flex01": "SS10K",
+   "sales_order": 126279,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "12/21/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22974,
+   "UTID": 7273477,
+   "flex01": "SS11K_HBW",
+   "sales_order": 0,
+   "fab_name": "INTEL CORPORATION FAB 15",
+   "commit_date": "1/10/2023",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26750,
+   "UTID": 7273474,
+   "flex01": "SS10K",
+   "sales_order": 126281,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "12/21/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22971,
+   "UTID": 7273476,
+   "flex01": "SS11K",
+   "sales_order": 124390,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "12/21/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22982,
+   "UTID": 7273482,
+   "flex01": "F20",
+   "sales_order": 124439,
+   "fab_name": "APPLIED MATERIALS",
+   "commit_date": "12/22/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26752,
+   "UTID": 7273481,
+   "flex01": "SS10K",
+   "sales_order": 126289,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "1/3/2023",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25965,
+   "UTID": 7273479,
+   "flex01": "Aleris 8350",
+   "sales_order": 127081,
+   "fab_name": "SK HYNIX M15",
+   "commit_date": "12/20/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26741,
+   "UTID": 7273480,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "YANGTZE MEMORY TECHNOLOGIES",
+   "commit_date": "1/1/2023",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22976,
+   "UTID": 7273484,
+   "flex01": "SS11K",
+   "sales_order": 124391,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "12/25/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26747,
+   "UTID": 7273399,
+   "flex01": "SS11K_HBW",
+   "sales_order": 0,
+   "fab_name": "INTEL CORPORATION FAB 15",
+   "commit_date": "12/25/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25981,
+   "UTID": 7273356,
+   "flex01": "SS11K",
+   "sales_order": 0,
+   "fab_name": "SEMICONDUCTOR TECHNOLOGY INNOVATION",
+   "commit_date": "12/25/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25978,
+   "UTID": 7273367,
+   "flex01": "SS11K",
+   "sales_order": 129043,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "12/25/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26737,
+   "UTID": 7273489,
+   "flex01": "SF 8660 HT",
+   "sales_order": 128599,
+   "fab_name": "NEXCHIP SEMICONDUCTOR CORPORATION",
+   "commit_date": "12/25/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22977,
+   "UTID": 7273485,
+   "flex01": "Aleris 9350",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "12/26/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25987,
+   "UTID": 7273437,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "12/26/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29365,
+   "UTID": 7273538,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "12/26/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29373,
+   "UTID": 7273483,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "12/26/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22927,
+   "UTID": 7273486,
+   "flex01": "F10-H",
+   "sales_order": 0,
+   "fab_name": "SK HYNIX M14-2",
+   "commit_date": "12/27/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29366,
+   "UTID": 7273487,
+   "flex01": "Aleris 8350",
+   "sales_order": 126610,
+   "fab_name": "SAMSUNG P3D",
+   "commit_date": "12/27/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26748,
+   "UTID": 7273490,
+   "flex01": "SS12K SO2",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "1/18/2023",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29350,
+   "UTID": 7273299,
+   "flex01": "SS11K_s",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "12/29/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 24374,
+   "UTID": 7273493,
+   "flex01": "SS12K",
+   "sales_order": 0,
+   "fab_name": "INTEL CORPORATION FAB D1D",
+   "commit_date": "12/29/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22962,
+   "UTID": 7273491,
+   "flex01": "SS10K",
+   "sales_order": 126285,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "12/29/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22983,
+   "UTID": 7273492,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "1/3/2023",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26745,
+   "UTID": 7273494,
+   "flex01": "SS11K_m",
+   "sales_order": 0,
+   "fab_name": "SK HYNIX M14",
+   "commit_date": "1/1/2023",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25966,
+   "UTID": 7273495,
+   "flex01": "Aleris 8350",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "1/2/2023",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 26736,
+   "UTID": 7273451,
+   "flex01": "Aleris 8350",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "12/31/2022",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25579,
+   "UTID": 7273497,
+   "flex01": "Aleris 8500",
+   "sales_order": 126297,
+   "fab_name": "PIOTECH (SHANGHAI) INC.",
+   "commit_date": "2/6/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25594,
+   "UTID": 7273498,
+   "flex01": "Aleris 8500",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 16",
+   "commit_date": "1/2/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27087,
+   "UTID": 7273501,
+   "flex01": "SS12K",
+   "sales_order": 0,
+   "fab_name": "MICRON TECHNOLOGY FAB 4",
+   "commit_date": "1/4/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32672,
+   "UTID": 7273502,
+   "flex01": "F1-S",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG L-15",
+   "commit_date": "1/4/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32692,
+   "UTID": 7273503,
+   "flex01": "SS11K",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "1/4/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25600,
+   "UTID": 7273499,
+   "flex01": "SS10K 3D",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "1/4/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27061,
+   "UTID": 7273500,
+   "flex01": "SS 8660",
+   "sales_order": 122706,
+   "fab_name": "TSMC FAB 16",
+   "commit_date": "1/4/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32646,
+   "UTID": 7273504,
+   "flex01": "SS8660",
+   "sales_order": 122705,
+   "fab_name": "TSMC FAB 16",
+   "commit_date": "1/5/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32685,
+   "UTID": 7273505,
+   "flex01": "SS10K",
+   "sales_order": 126291,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "1/5/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25580,
+   "UTID": 7273506,
+   "flex01": "Aleris 8510",
+   "sales_order": 125233,
+   "fab_name": "GLOBALFOUNDRIES SINGAPORE (FAB 7H)",
+   "commit_date": "1/8/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 36869,
+   "UTID": 7273508,
+   "flex01": "SS11K_m",
+   "sales_order": 0,
+   "fab_name": "SK HYNIX M16",
+   "commit_date": "1/1/2024",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 36848,
+   "UTID": 7273507,
+   "flex01": "SS10K 3D DNS",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "1/1/2024",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27081,
+   "UTID": 7273509,
+   "flex01": "SS11K_s",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P1-3",
+   "commit_date": "1/9/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29325,
+   "UTID": 7273510,
+   "flex01": "SS11K_m",
+   "sales_order": 127950,
+   "fab_name": "SONY SEMI MFG NAGASAKI FAB5 12\"",
+   "commit_date": "1/9/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32647,
+   "UTID": 7273511,
+   "flex01": "SF 8660 HT",
+   "sales_order": 0,
+   "fab_name": "INFINEON TECHNOLOGIES AG",
+   "commit_date": "1/9/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32717,
+   "UTID": 7273513,
+   "flex01": "F10-H",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "1/10/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32673,
+   "UTID": 7273514,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "1/10/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25603,
+   "UTID": 7273512,
+   "flex01": "SS11K_m",
+   "sales_order": 129322,
+   "fab_name": "CHANGXIN XINQIAO MEMORY",
+   "commit_date": "1/10/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 36868,
+   "UTID": 7273516,
+   "flex01": "SS11K_m",
+   "sales_order": 0,
+   "fab_name": "SK HYNIX M16",
+   "commit_date": "1/1/2024",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 36847,
+   "UTID": 7273515,
+   "flex01": "SS10K 3D DNS",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "1/1/2024",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 36821,
+   "UTID": 7273519,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "1/1/2024",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25601,
+   "UTID": 7273517,
+   "flex01": "SS10K 3D",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "1/11/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32686,
+   "UTID": 7273518,
+   "flex01": "SS10K 3D EP",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "1/11/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32694,
+   "UTID": 7273522,
+   "flex01": "SS11Ki",
+   "sales_order": 122192,
+   "fab_name": "INTEL IRELAND LTD FAB 24",
+   "commit_date": "1/12/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25610,
+   "UTID": 7273521,
+   "flex01": "SS12K SO2",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "1/12/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25597,
+   "UTID": 7273520,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "1/12/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 36801,
+   "UTID": 7273523,
+   "flex01": "Aleris 8350",
+   "sales_order": 0,
+   "fab_name": "SK HYNIX M16",
+   "commit_date": "1/1/2024",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32695,
+   "UTID": 7273526,
+   "flex01": "SS11K_HBW",
+   "sales_order": 128757,
+   "fab_name": "INTEL ELEC. SDN. BHD  FAB 26",
+   "commit_date": "1/15/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25591,
+   "UTID": 7273524,
+   "flex01": "Aleris 8510",
+   "sales_order": 118925,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "1/15/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32704,
+   "UTID": 7273527,
+   "flex01": "SS9010",
+   "sales_order": 124888,
+   "fab_name": "TEXAS INSTRUMENTS RFAB 2",
+   "commit_date": "1/15/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32670,
+   "UTID": 7273525,
+   "flex01": "Aleris 8370",
+   "sales_order": 125365,
+   "fab_name": "SAMSUNG P3F",
+   "commit_date": "1/15/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27076,
+   "UTID": 7273528,
+   "flex01": "F1",
+   "sales_order": 129309,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "1/16/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32648,
+   "UTID": 7273530,
+   "flex01": "Aleris 8510",
+   "sales_order": 129161,
+   "fab_name": "SK HYNIX M15P2",
+   "commit_date": "1/17/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25604,
+   "UTID": 7273529,
+   "flex01": "SS11K_m",
+   "sales_order": 129323,
+   "fab_name": "CHANGXIN XINQIAO MEMORY",
+   "commit_date": "1/17/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25609,
+   "UTID": 7273532,
+   "flex01": "Aleris 8510",
+   "sales_order": 125230,
+   "fab_name": "GLOBALFOUNDRIES SINGAPORE (FAB 7H)",
+   "commit_date": "1/18/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27062,
+   "UTID": 7273533,
+   "flex01": "ALERIS 8510",
+   "sales_order": 125293,
+   "fab_name": "GLOBALFOUNDRIES SINGAPORE (FAB 7H)",
+   "commit_date": "1/18/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32674,
+   "UTID": 7273543,
+   "flex01": "F1",
+   "sales_order": 129282,
+   "fab_name": "CHANGXIN XINQIAO MEMORY",
+   "commit_date": "1/18/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29324,
+   "UTID": 7273091,
+   "flex01": "SS11K_m",
+   "sales_order": 129326,
+   "fab_name": "CHANGXIN XINQIAO MEMORY",
+   "commit_date": "1/18/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25602,
+   "UTID": 7273531,
+   "flex01": "SS10K-F",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 16",
+   "commit_date": "1/18/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25598,
+   "UTID": 7273544,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "1/19/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25592,
+   "UTID": 7273545,
+   "flex01": "Aleris 8500",
+   "sales_order": 118933,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "1/22/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27071,
+   "UTID": 7273549,
+   "flex01": "SS10K",
+   "sales_order": 126299,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "1/22/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25593,
+   "UTID": 7273565,
+   "flex01": "SF 8660 HT",
+   "sales_order": 118963,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "1/22/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27077,
+   "UTID": 7273552,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "1/24/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25605,
+   "UTID": 7273551,
+   "flex01": "SS11K_m",
+   "sales_order": 0,
+   "fab_name": "SK HYNIX SEMICONDUCTOR (CHINA) C2F",
+   "commit_date": "1/24/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27086,
+   "UTID": 7273539,
+   "flex01": "Aleris 8510",
+   "sales_order": 123135,
+   "fab_name": "HANGZHOU HFC SEMICONDUCTOR CORP.",
+   "commit_date": "1/25/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32649,
+   "UTID": 7273566,
+   "flex01": "Aleris 8350",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3D",
+   "commit_date": "1/25/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 36802,
+   "UTID": 7273569,
+   "flex01": "Aleris 8350",
+   "sales_order": 0,
+   "fab_name": "SK HYNIX M16",
+   "commit_date": "1/1/2024",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32675,
+   "UTID": 7273553,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "1/26/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25599,
+   "UTID": 7273554,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "1/26/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27072,
+   "UTID": 7273562,
+   "flex01": "SS10K-F",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 16",
+   "commit_date": "1/26/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25611,
+   "UTID": 7273574,
+   "flex01": "Aleris 8350",
+   "sales_order": 128215,
+   "fab_name": "INTEL SEMICON STGE. TECH (DL) LTD",
+   "commit_date": "1/27/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27063,
+   "UTID": 7273560,
+   "flex01": "SS 8660",
+   "sales_order": 118988,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "1/29/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27064,
+   "UTID": 7273561,
+   "flex01": "SS 8660",
+   "sales_order": 118987,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "1/29/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32650,
+   "UTID": 7273471,
+   "flex01": "Aleris 8350",
+   "sales_order": 127080,
+   "fab_name": "SK HYNIX M15",
+   "commit_date": "1/29/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25608,
+   "UTID": 7273547,
+   "flex01": "LD10",
+   "sales_order": 125002,
+   "fab_name": "STMICROELECTRONICS (CROLLES 2) SAS",
+   "commit_date": "1/30/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32676,
+   "UTID": 7273557,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "1/30/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27082,
+   "UTID": 7273556,
+   "flex01": "SS11K_m",
+   "sales_order": 0,
+   "fab_name": "SK HYNIX SEMICONDUCTOR (CHINA) C2F",
+   "commit_date": "1/30/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25606,
+   "UTID": 7273558,
+   "flex01": "SS11K_m",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "1/31/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27083,
+   "UTID": 7273559,
+   "flex01": "SS11K_s",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3D",
+   "commit_date": "2/1/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25612,
+   "UTID": 7273567,
+   "flex01": "SS 8660",
+   "sales_order": 119059,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "2/1/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27073,
+   "UTID": 7273571,
+   "flex01": "SS10K 3D",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "2/2/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25617,
+   "UTID": 7273461,
+   "flex01": "SF 8660 HT",
+   "sales_order": 129370,
+   "fab_name": "MEMC LLC",
+   "commit_date": "2/2/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25618,
+   "UTID": 7273563,
+   "flex01": "F1",
+   "sales_order": 129190,
+   "fab_name": "CHANGXIN XINQIAO MEMORY",
+   "commit_date": "2/5/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32696,
+   "UTID": 7273564,
+   "flex01": "SS11K_m",
+   "sales_order": 0,
+   "fab_name": "SK HYNIX M16",
+   "commit_date": "2/5/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 36822,
+   "UTID": 7273573,
+   "flex01": "F1",
+   "sales_order": 129330,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "1/1/2024",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32697,
+   "UTID": 7273572,
+   "flex01": "SS11K_HBW",
+   "sales_order": 0,
+   "fab_name": "INTEL CORPORATION FAB 15",
+   "commit_date": "2/7/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25631,
+   "UTID": 7273462,
+   "flex01": "Aleris 8350",
+   "sales_order": 128093,
+   "fab_name": "SAMSUNG P3D",
+   "commit_date": "2/7/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32677,
+   "UTID": 7273575,
+   "flex01": "F1",
+   "sales_order": 129327,
+   "fab_name": "TSMC FAB 18 P5",
+   "commit_date": "2/8/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27078,
+   "UTID": 7273473,
+   "flex01": "F1",
+   "sales_order": 129247,
+   "fab_name": "CHANGXIN XINQIAO MEMORY",
+   "commit_date": "2/8/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25613,
+   "UTID": 7273463,
+   "flex01": "Aleris 8350",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG S4",
+   "commit_date": "2/8/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25625,
+   "UTID": 7273464,
+   "flex01": "SS11K_s",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3D",
+   "commit_date": "2/9/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32698,
+   "UTID": 7273465,
+   "flex01": "SS11K_s",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "1/1/2024",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25619,
+   "UTID": 7273472,
+   "flex01": "F1",
+   "sales_order": 129259,
+   "fab_name": "CHANGXIN XINQIAO MEMORY",
+   "commit_date": "2/12/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32699,
+   "UTID": 7273466,
+   "flex01": "SS11K_m",
+   "sales_order": 129093,
+   "fab_name": "CHANGXIN JIDIAN (BEIJING) MEMORY",
+   "commit_date": "2/12/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32662,
+   "UTID": 7273467,
+   "flex01": "Aleris 8350",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG S4",
+   "commit_date": "2/12/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 36823,
+   "UTID": 7273468,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 18 P6",
+   "commit_date": "1/1/2024",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32678,
+   "UTID": 7273478,
+   "flex01": "F1",
+   "sales_order": 129411,
+   "fab_name": "CHANGXIN JIDIAN (BEIJING) MEMORY",
+   "commit_date": "2/13/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25614,
+   "UTID": 7273469,
+   "flex01": "SF 8660 HT",
+   "sales_order": 118961,
+   "fab_name": "UMC 12A P5",
+   "commit_date": "2/13/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 29323,
+   "UTID": 7273075,
+   "flex01": "SS11K_m",
+   "sales_order": 129094,
+   "fab_name": "CHANGXIN JIDIAN (BEIJING) MEMORY",
+   "commit_date": "2/14/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32663,
+   "UTID": 7273470,
+   "flex01": "SF 8660HT",
+   "sales_order": 128612,
+   "fab_name": "NEXCHIP SEMICONDUCTOR CORPORATION",
+   "commit_date": "2/14/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27084,
+   "UTID": 7273548,
+   "flex01": "SS11K_m",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "2/15/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25627,
+   "UTID": 7273536,
+   "flex01": "LS11K",
+   "sales_order": 124691,
+   "fab_name": "INTEL IRELAND LTD FAB 24",
+   "commit_date": "2/23/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25630,
+   "UTID": 7273568,
+   "flex01": "LD1",
+   "sales_order": 0,
+   "fab_name": "SEMICONDUCTOR MANUFACTURING BEIJING",
+   "commit_date": "2/26/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32665,
+   "UTID": 7273576,
+   "flex01": "Aleris 8510",
+   "sales_order": 123137,
+   "fab_name": "HANGZHOU HFC SEMICONDUCTOR CORP.",
+   "commit_date": "2/26/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 22985,
+   "UTID": 7273400,
+   "flex01": "F20",
+   "sales_order": 0,
+   "fab_name": "YANGTZE MEMORY TECHNOLOGIES",
+   "commit_date": "2/28/2023",
+   "BuildQtr": "CY22Q4"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27074,
+   "UTID": 7273577,
+   "flex01": "LD10",
+   "sales_order": 125004,
+   "fab_name": "STMICROELECTRONICS (CROLLES 2) SAS",
+   "commit_date": "2/28/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27090,
+   "UTID": 7273570,
+   "flex01": "SS12K",
+   "sales_order": 0,
+   "fab_name": "KLA",
+   "commit_date": "1/1/2024",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32718,
+   "UTID": 7273540,
+   "flex01": "F20",
+   "sales_order": 0,
+   "fab_name": "MICRON TECHNOLOGY FAB 4",
+   "commit_date": "3/15/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32703,
+   "UTID": 7273555,
+   "flex01": "LS11K",
+   "sales_order": 127889,
+   "fab_name": "INTEL IRELAND LTD FAB 24",
+   "commit_date": "3/15/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 32690,
+   "UTID": 7273550,
+   "flex01": "SS10K-F MAX",
+   "sales_order": 129171,
+   "fab_name": "CHANGXIN XINQIAO MEMORY",
+   "commit_date": "3/19/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25596,
+   "UTID": 7273546,
+   "flex01": "F1",
+   "sales_order": 0,
+   "fab_name": "TSMC FAB 21",
+   "commit_date": "3/20/2023",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 25656,
+   "UTID": 7273578,
+   "flex01": "SS12K SO2",
+   "sales_order": 0,
+   "fab_name": "OPEN",
+   "commit_date": "1/1/2024",
+   "BuildQtr": "CY23Q1"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27763,
+   "UTID": 7273225,
+   "flex01": "Aleris 8350",
+   "sales_order": 0,
+   "fab_name": "SAMSUNG P3L",
+   "commit_date": "4/16/2023",
+   "BuildQtr": "CY23Q2"
+ }},
+ {
+   "model": "ts_system.daily_data",
+   "fields" : {"Argo_ID": 27708,
+   "UTID": 7273460,
+   "flex01": "SS10K-F MAX",
+   "sales_order": 129175,
+   "fab_name": "CHANGXIN XINQIAO MEMORY",
+   "commit_date": "5/16/2023",
+   "BuildQtr": "CY23Q2"
+ }}
+]

@@ -1,0 +1,139 @@
+<html>
+<head>
+<title>Tool Status: Home</title>
+</head>
+<body>
+  {% extends 'ts_system/base.html'%}
+  {% load static %}
+  {% block content %}
+  {% if user.is_authenticated %}
+
+  {% block custom_css %}
+  <style>
+    .first_table{
+      border-collapse: collapse;
+      width: 100%;
+    }
+    .second_table{
+      table-layout: fixed;
+
+    }
+    .first_table th, .first_table td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: none;
+      vertical-align:top;
+    }
+    .second_table th, .second_table td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  .second_table th, .second_table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 2px solid #ddd;
+  border-left: 2px solid #ddd;
+  }
+  td:first-child, th:first-child {
+  border-left: none;
+  }
+  .second_table tr:hover{
+    background-color: #96C0E5;
+  }
+button:active {
+  top: 1px;
+  box-shadow: none;
+}
+
+.icon {
+    position: absolute;
+    left: 5px;
+}
+.btn-green {
+    background: #1ab1bc;
+    border-bottom: 2px solid #1ab1bc;
+    box-shadow: inset 0 -2px #1ab1bc;
+    position: relative;
+    width: 120px;
+    height: 35px;
+    margin: 20px auto;
+    padding: 0;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    overflow: hidden;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+    transition: transform 0.4s ease-in-out;
+}
+.btn-green .icon {
+    width: 18px;
+    height: 18px;
+    transition: all 0.4s ease-in-out;
+}
+.btn-green:hover .icon {
+    transform: rotate(360deg) scale(1.2);
+    left: 5px;
+}
+
+  </style>
+  {% endblock custom_css %}
+
+  {% block bodydata %}
+  
+  <br><br>
+  <a href="{% url 'export_csv_sap_data'%}" class = "export_csv" ><span class="material-symbols-outlined"></span>Save Current Data to CSV</a>
+  <br><br>
+
+  <head>
+    <h1 class = "text-center">Argo Data from Snowflake</h1>
+  </head>
+
+  <!-- <form method='get' action='#'>
+    <div class="buttons">
+      <input type="submit" class="btn-green" value="Refresh" name="Refresh"/>
+    </div>
+  </form> -->
+
+</div>     
+<div>{{ notification }}</div>
+  <div class="container">
+      <div class="row">
+          <div class="col-lg-12">
+                  <div>
+                  <table class="second_table" name="data_table">
+                      <tr>
+                          <th style="background-color:rgb(149, 159, 168)" >Argo ID</th>
+                          <th style="background-color:rgb(149, 159, 168)" >UTID</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Flex_01</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Sales Order</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Fab Name</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Commit Date</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Build Qtr</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Tool Start Date</th>
+                      </tr>
+                      {% for utid in utids %}
+                      <tr>
+                          <td class="editable" data-type="PLANT">{{ utid.Argo_ID }}</td>
+                          <td class="editable" data-type="MATERIAL">{{ utid.UTID }}</td>
+                          <td class="editable" data-type="MAKTX">{{ utid.flex01 }}</td>
+                          <td class="editable" data-type="MAKTX">{{ utid.sales_order }}</td>
+                          <td class="editable" data-type="MAKTX">{{ utid.fab_name }}</td>
+                          <td class="editable" data-type="MAKTX">{{ utid.commit_date }}</td>
+                          <td class="editable" data-type="MAKTX">{{ utid.BuildQtr }}</td>
+                          <td class="editable" data-type="MAKTX">{{ utid.Tool_start_date }}</td>
+                        </tr>
+                    {% endfor %}
+                  </table>
+  </div>
+  {% endblock bodydata %}
+
+  {% else %}
+    <h4 class = "text-center">You need to login to continue</h4>
+  {% endif %}
+</body>
+</html>
+{% endblock %}

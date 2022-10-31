@@ -1,0 +1,101 @@
+<html>
+<head>
+<title>Tool Status: Home</title>
+</head>
+<body>
+  {% extends 'ts_system/base.html'%}
+  {% load static %}
+  {% block content %}
+  {% if user.is_authenticated %}
+
+  {% block custom_css %}
+  <style>
+    .second_table{
+      table-layout: fixed;
+      padding-left: 80px;
+    }
+    .second_table th, .second_table td {
+    padding: 5px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  .second_table th, .second_table td {
+  padding: 5px;
+  text-align: left;
+  border-bottom: 2px solid #ddd;
+  border-left: 2px solid #ddd;
+  }
+  td:first-child, th:first-child {
+  border-left: none;
+  }
+  .second_table tr:hover{
+    background-color: #96C0E5;
+  }
+  .grey {
+  background-color: rgba(#ddd);
+  }
+  .blue {
+  background-color: rgba(138, 162, 241, 0.25);
+  }
+  .turkiz {
+  background-color: rgba(118, 236, 230, 0.25);
+  }
+  </style>
+
+  {% endblock custom_css %}
+  {% block bodydata %}
+  
+    <!-- <form method='get' action='#'>
+      <div class="buttons">
+        <input type="submit" class="btn-green" value="Refresh" name="Refresh"/>
+      </div>
+    </form> -->
+  
+    <head>
+      <h1 class = "text-center">Create a New User</h1>
+      </head>
+    {% if perms.user.can_view_user %} <!-- this condition checks if the user is Admin or not. if yes- he can see all users, else- not -->
+
+      <body>
+  
+        <form method="POST" action="">
+          {% csrf_token %}
+          <h6  style="float: left">User Name:</h6> 
+            <input type="text" name="user_name"/>
+        <br></br>
+  
+        <h6  style="float: left">Password:</h6> 
+        <input type="text" name="password"/>
+        <br></br>
+
+        <h6  style="float: left">Email:</h6> 
+        <input type="text" name="email"/>
+        <br></br>
+        
+        <h6  style="float: left">Permissions:</h6> 
+            <select name="permissions">
+              <option disabled="true" selected> -- Select a Group -- </option>
+              {% for group in groups %}
+              <option> {{ group }} </option>
+              {% endfor %}
+            </select>
+  
+        <br></br>
+  
+          <button type="submit">Add</button>
+          
+        <h4 class = "text-center">{{message}}</h4>
+
+    {% else %}   
+    <h3> {{user}}, you are not authorized to access this page. </h3>
+    {% endif %}
+
+  </div>
+  {% endblock bodydata %}
+
+  {% else %}
+    <h4 class = "text-center">You need to login to continue</h4>
+  {% endif %}
+</body>
+</html>
+{% endblock %}

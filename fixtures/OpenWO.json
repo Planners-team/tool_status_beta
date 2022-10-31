@@ -1,0 +1,4545 @@
+[
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748123-000",
+   "Material_Description": "TESTER A750",
+   "Order": 1085276,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0547076-000",
+   "Material_Description": "SKIN,ANTI-CONTAMINATION SPECIAL KIT",
+   "Order": 1085188,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0749692-000",
+   "Material_Description": "TESTER,ATL 150",
+   "Order": 1086838,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0718720-000",
+   "Material_Description": "CBL,KIT,11 METER,AC",
+   "Order": 1087881,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0749692-000",
+   "Material_Description": "TESTER,ATL 150",
+   "Order": 1087410,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0740229-000",
+   "Material_Description": "KIT,15 METER,AC CBL",
+   "Order": 1087409,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0749692-000",
+   "Material_Description": "TESTER,ATL 150",
+   "Order": 1086397,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0808742-002",
+   "Material_Description": "KIT, PSK, A700",
+   "Order": 1087662,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748123-000",
+   "Material_Description": "TESTER A750",
+   "Order": 1086876,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0842298-000",
+   "Material_Description": "TESTER, A800X",
+   "Order": 1084848,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748123-000",
+   "Material_Description": "TESTER A750",
+   "Order": 1084842,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0749692-000",
+   "Material_Description": "TESTER,ATL 150",
+   "Order": 1084750,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0387430-000",
+   "Material_Description": "A500 SWEDGE FITTINGS OPTION",
+   "Order": 1086233,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0709770-000",
+   "Material_Description": "KIT,UI LOCK,LOCATION-A,SAMSUNG OPTION",
+   "Order": 1087661,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0808742-002",
+   "Material_Description": "KIT, PSK, A700",
+   "Order": 1087660,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0709770-000",
+   "Material_Description": "KIT,UI LOCK,LOCATION-A,SAMSUNG OPTION",
+   "Order": 1087659,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0777726-002",
+   "Material_Description": "ASSY, MAD, A800 OH",
+   "Order": 1088008,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0387430-000",
+   "Material_Description": "A500 SWEDGE FITTINGS OPTION",
+   "Order": 1086275,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0750717-000",
+   "Material_Description": "ASSY, FILTER BOX, A800",
+   "Order": 1084628,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0750717-000",
+   "Material_Description": "ASSY, FILTER BOX, A800",
+   "Order": 1084610,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0808742-002",
+   "Material_Description": "KIT, PSK, A700",
+   "Order": 1087658,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0387430-000",
+   "Material_Description": "A500 SWEDGE FITTINGS OPTION",
+   "Order": 1084571,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0740229-000",
+   "Material_Description": "KIT,15 METER,AC CBL",
+   "Order": 1086901,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0777732-001",
+   "Material_Description": "KIT, CAMERAS, A800 OH",
+   "Order": 1088012,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0970877-000",
+   "Material_Description": "ASSY,TESTED,FLEETHUB BASE",
+   "Order": 1087159,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0777741-000",
+   "Material_Description": "KIT, OPTICAL, A800 OH",
+   "Order": 1088014,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0387430-000",
+   "Material_Description": "A500 SWEDGE FITTINGS OPTION",
+   "Order": 1084330,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0750717-000",
+   "Material_Description": "ASSY, FILTER BOX, A800",
+   "Order": 1084313,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0811801-001",
+   "Material_Description": "KIT, BS CHANGER, A800 OH",
+   "Order": 1088015,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0709770-000",
+   "Material_Description": "KIT,UI LOCK,LOCATION-A,SAMSUNG OPTION",
+   "Order": 1087657,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0842298-000",
+   "Material_Description": "TESTER, A800X",
+   "Order": 1087647,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0842298-000",
+   "Material_Description": "TESTER, A800X",
+   "Order": 1087646,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0811801-001",
+   "Material_Description": "KIT, BS CHANGER, A800 OH",
+   "Order": 1086161,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0839470-000",
+   "Material_Description": "KIT,MECH,SD,A800&ATL200",
+   "Order": 1087508,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0663142-000",
+   "Material_Description": "TESTER, A700CWTi",
+   "Order": 1086698,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0850152-000",
+   "Material_Description": "KIT,IO BOARD,HEADERS,COVERS",
+   "Order": 1085690,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0763899-000",
+   "Material_Description": "KIT, UPGRADE NAS SECOND CONNECTION",
+   "Order": 1085683,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0392260-000",
+   "Material_Description": "TESTER,A500U FINAL BASE ASSEMBLY,ROW",
+   "Order": 1087747,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0763899-000",
+   "Material_Description": "KIT, UPGRADE NAS SECOND CONNECTION",
+   "Order": 1086464,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0387430-000",
+   "Material_Description": "A500 SWEDGE FITTINGS OPTION",
+   "Order": 1085652,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0815596-000",
+   "Material_Description": "TESTER, irArcher 007",
+   "Order": 1086453,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0763899-000",
+   "Material_Description": "KIT, UPGRADE NAS SECOND CONNECTION",
+   "Order": 1086742,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0763899-000",
+   "Material_Description": "KIT, UPGRADE NAS SECOND CONNECTION",
+   "Order": 1087475,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0750717-000",
+   "Material_Description": "ASSY, FILTER BOX, A800",
+   "Order": 1085600,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0754732-000",
+   "Material_Description": "PURCHASED BASE, ATL 150",
+   "Order": 1086095,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0846946-000",
+   "Material_Description": "MTD AMS5 WORKSTATION",
+   "Order": 1086106,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748123-000",
+   "Material_Description": "TESTER A750",
+   "Order": 1087728,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748123-000",
+   "Material_Description": "TESTER A750",
+   "Order": 1087727,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0749692-000",
+   "Material_Description": "TESTER,ATL 150",
+   "Order": 1086127,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0387430-000",
+   "Material_Description": "A500 SWEDGE FITTINGS OPTION",
+   "Order": 1085529,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0663142-000",
+   "Material_Description": "TESTER, A700CWTi",
+   "Order": 1086128,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748123-000",
+   "Material_Description": "TESTER A750",
+   "Order": 1087726,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0811801-001",
+   "Material_Description": "KIT, BS CHANGER, A800 OH",
+   "Order": 1086799,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0777732-001",
+   "Material_Description": "KIT, CAMERAS, A800 OH",
+   "Order": 1086800,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0777741-000",
+   "Material_Description": "KIT, OPTICAL, A800 OH",
+   "Order": 1086801,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0980207-000",
+   "Material_Description": "KIT, OPTICS BS CHANGER,IMP CIP, A800",
+   "Order": 1086157,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0750719-004",
+   "Material_Description": "ASSY, ND FILTER, A800 FB",
+   "Order": 1085386,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0777741-000",
+   "Material_Description": "KIT, OPTICAL, A800 OH",
+   "Order": 1086158,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0777732-001",
+   "Material_Description": "KIT, CAMERAS, A800 OH",
+   "Order": 1086159,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0702726-000",
+   "Material_Description": "TESTER TLi",
+   "Order": 1085380,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748123-000",
+   "Material_Description": "TESTER A750",
+   "Order": 1085355,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0842298-000",
+   "Material_Description": "TESTER, A800X",
+   "Order": 1085334,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0842298-000",
+   "Material_Description": "TESTER, A800X",
+   "Order": 1085332,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0777726-002",
+   "Material_Description": "ASSY, MAD, A800 OH",
+   "Order": 1086160,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748123-000",
+   "Material_Description": "TESTER A750",
+   "Order": 1087436,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0750719-003",
+   "Material_Description": "ASSY, ND FILTER, A800 FB",
+   "Order": 1081871,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0750714-003",
+   "Material_Description": "ASSY, LP LVEF, A800 FB",
+   "Order": 1081870,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0392260-000",
+   "Material_Description": "TESTER,A500U FINAL BASE ASSEMBLY,ROW",
+   "Order": 1087297,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0392260-000",
+   "Material_Description": "TESTER,A500U FINAL BASE ASSEMBLY,ROW",
+   "Order": 1087295,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0777735-004",
+   "Material_Description": "ASSY, GRATING PROJECTOR, A800 OH",
+   "Order": 1081761,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0505785-000",
+   "Material_Description": "OPTICAL COLUMN ASSY,A500U",
+   "Order": 1087598,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0811801-000",
+   "Material_Description": "KIT, BS CHANGER, A800 OH",
+   "Order": 1081653,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748123-000",
+   "Material_Description": "TESTER A750",
+   "Order": 1087275,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0980908-000",
+   "Material_Description": "KIT, FERRITE PDU, STAGE CONT",
+   "Order": 1081616,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0799466-001",
+   "Material_Description": "ASSY, BEAM COMBINER, A800 FB",
+   "Order": 1081615,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0799455-001",
+   "Material_Description": "ASSY, BEAM SPLITTER, A800 FB",
+   "Order": 1081614,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0808742-002",
+   "Material_Description": "KIT, PSK, A700",
+   "Order": 1087549,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0763899-000",
+   "Material_Description": "KIT, UPGRADE NAS SECOND CONNECTION",
+   "Order": 1087552,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0815596-000",
+   "Material_Description": "TESTER, irArcher 007",
+   "Order": 1080996,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0718720-000",
+   "Material_Description": "CBL,KIT,11 METER,AC",
+   "Order": 1087556,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0791046-000",
+   "Material_Description": "RDM win2016 OPTION FOR 5DA",
+   "Order": 1080808,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0791046-000",
+   "Material_Description": "RDM win2016 OPTION FOR 5DA",
+   "Order": 1080806,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0777735-004",
+   "Material_Description": "ASSY, GRATING PROJECTOR, A800 OH",
+   "Order": 1080702,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0791046-000",
+   "Material_Description": "RDM win2016 OPTION FOR 5DA",
+   "Order": 1080693,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0763899-000",
+   "Material_Description": "KIT, UPGRADE NAS SECOND CONNECTION",
+   "Order": 1087557,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0791046-000",
+   "Material_Description": "RDM win2016 OPTION FOR 5DA",
+   "Order": 1080026,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0392260-000",
+   "Material_Description": "TESTER,A500U FINAL BASE ASSEMBLY,ROW",
+   "Order": 1087263,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0791046-000",
+   "Material_Description": "RDM win2016 OPTION FOR 5DA",
+   "Order": 1079940,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0799466-001",
+   "Material_Description": "ASSY, BEAM COMBINER, A800 FB",
+   "Order": 1079853,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0799455-001",
+   "Material_Description": "ASSY, BEAM SPLITTER, A800 FB",
+   "Order": 1079852,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0980908-000",
+   "Material_Description": "KIT, FERRITE PDU, STAGE CONT",
+   "Order": 1079851,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0788925-000",
+   "Material_Description": "TESTER ATL200",
+   "Order": 1087582,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0740229-000",
+   "Material_Description": "KIT,15 METER,AC CBL",
+   "Order": 1087558,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0757811-003",
+   "Material_Description": "ASSY, SP LVEF , A800 FB",
+   "Order": 1077476,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0808742-002",
+   "Material_Description": "KIT, PSK, A700",
+   "Order": 1087571,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0826552-000",
+   "Material_Description": "FINAL ASSY ATL200",
+   "Order": 1068031,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0773423-000",
+   "Material_Description": "TESTER A800 ASSY",
+   "Order": 1066635,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0842298-000",
+   "Material_Description": "TESTER, A800X",
+   "Order": 1087645,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0665483-000",
+   "Material_Description": "BASE, ASSY, PURCHASED, A700",
+   "Order": 1087644,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0983512-000",
+   "Material_Description": "ASSY, BASE PURCHASED, A800X",
+   "Order": 1087643,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0983512-000",
+   "Material_Description": "ASSY, BASE PURCHASED, A800X",
+   "Order": 1087642,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0983512-000",
+   "Material_Description": "ASSY, BASE PURCHASED, A800X",
+   "Order": 1087641,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748122-000",
+   "Material_Description": "ASSY, FRM ARCHER 700",
+   "Order": 1087631,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748122-000",
+   "Material_Description": "ASSY, FRM ARCHER 700",
+   "Order": 1087630,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748122-000",
+   "Material_Description": "ASSY, FRM ARCHER 700",
+   "Order": 1087629,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0850152-000",
+   "Material_Description": "KIT,IO BOARD,HEADERS,COVERS",
+   "Order": 1086315,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748122-000",
+   "Material_Description": "ASSY, FRM ARCHER 700",
+   "Order": 1087628,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0814551-000",
+   "Material_Description": "5DA STARTER SERVER",
+   "Order": 1087193,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0791046-000",
+   "Material_Description": "RDM win2016 OPTION FOR 5DA",
+   "Order": 1083248,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0740229-000",
+   "Material_Description": "KIT,15 METER,AC CBL",
+   "Order": 1087194,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0814551-000",
+   "Material_Description": "5DA STARTER SERVER",
+   "Order": 1087195,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748122-000",
+   "Material_Description": "ASSY, FRM ARCHER 700",
+   "Order": 1087627,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0811801-000",
+   "Material_Description": "KIT, BS CHANGER, A800 OH",
+   "Order": 1082841,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748122-000",
+   "Material_Description": "ASSY, FRM ARCHER 700",
+   "Order": 1087626,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748122-000",
+   "Material_Description": "ASSY, FRM ARCHER 700",
+   "Order": 1087625,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748123-000",
+   "Material_Description": "TESTER A750",
+   "Order": 1087336,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0811801-000",
+   "Material_Description": "KIT, BS CHANGER, A800 OH",
+   "Order": 1081985,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0505785-000",
+   "Material_Description": "OPTICAL COLUMN ASSY,A500U",
+   "Order": 1087599,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0549248-000",
+   "Material_Description": "PURCHASED BASE A500U,ROW",
+   "Order": 1087601,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748122-000",
+   "Material_Description": "ASSY, FRM ARCHER 700",
+   "Order": 1087623,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0791046-000",
+   "Material_Description": "RDM win2016 OPTION FOR 5DA",
+   "Order": 1082168,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0740229-000",
+   "Material_Description": "KIT,15 METER,AC CBL",
+   "Order": 1087216,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0750714-003",
+   "Material_Description": "ASSY, LP LVEF, A800 FB",
+   "Order": 1082479,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0750719-003",
+   "Material_Description": "ASSY, ND FILTER, A800 FB",
+   "Order": 1082480,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748122-000",
+   "Material_Description": "ASSY, FRM ARCHER 700",
+   "Order": 1087624,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0757811-003",
+   "Material_Description": "ASSY, SP LVEF , A800 FB",
+   "Order": 1082481,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0757811-003",
+   "Material_Description": "ASSY, SP LVEF , A800 FB",
+   "Order": 1081872,
+   "Plant": 4001
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0845399-000",
+   "Material_Description": "KIT,DECAL,MODEL SPRCTRAFILM 8660",
+   "Order": 1087521,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0727577-000",
+   "Material_Description": "OPTION,SEISMIC RESTRAINT,TESTER,SS11K",
+   "Order": 1087541,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614958-000",
+   "Material_Description": "OPTION,MSWAVECAL",
+   "Order": 1087520,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1087544,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087564,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087562,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0597905-000",
+   "Material_Description": "OPTION,COMPENSATOR,C/W LDSR,GEN8 SE",
+   "Order": 1087519,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0607019-000",
+   "Material_Description": "OPTION,SWE-EP",
+   "Order": 1087518,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0630252-000",
+   "Material_Description": "OPTION,DIGITAL NAVIGATION SYSTEM",
+   "Order": 1087517,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0629129-000",
+   "Material_Description": "FEATURE,BBSE,EP/XP,F1",
+   "Order": 1087516,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614033-000",
+   "Material_Description": "TESTER,XP,SPECTRAFILM F1",
+   "Order": 1087515,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087545,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0623771-000",
+   "Material_Description": "OPTION,FOG,F1",
+   "Order": 1087522,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087561,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0845399-000",
+   "Material_Description": "KIT,DECAL,MODEL SPRCTRAFILM 8660",
+   "Order": 1087523,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1087540,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0765040-000",
+   "Material_Description": "OPTION,OLSA,VER 6.2 GR W/USB DONGLE",
+   "Order": 1087539,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0845399-000",
+   "Material_Description": "KIT,DECAL,MODEL SPRCTRAFILM 8660",
+   "Order": 1087524,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087547,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087548,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0845399-000",
+   "Material_Description": "KIT,DECAL,MODEL SPRCTRAFILM 8660",
+   "Order": 1087525,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0845399-000",
+   "Material_Description": "KIT,DECAL,MODEL SPRCTRAFILM 8660",
+   "Order": 1087526,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087527,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087533,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554066-000",
+   "Material_Description": "KIT REMOTE UI TFIMS/QFIMS",
+   "Order": 1087531,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0117525-000",
+   "Material_Description": "ASSY,FOCUS DETECTOR,PR,ALERIS",
+   "Order": 1087397,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0100228-000",
+   "Material_Description": "FEATURE,BBSE,150/VUV,ALERIS 8500",
+   "Order": 1087396,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0221129-000",
+   "Material_Description": "TESTER,ALERIS 8500",
+   "Order": 1087395,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0344192-000",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 150W",
+   "Order": 1087375,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0129038-006",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 75W",
+   "Order": 1087374,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787018-000",
+   "Material_Description": "KIT,DECALS,ALERIS 8350",
+   "Order": 1087373,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0565954-000",
+   "Material_Description": "OPTION,OLSA,V5.0 (BETA) W/SML USB DONGLE",
+   "Order": 1087372,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1087371,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1087356,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0391024-000",
+   "Material_Description": "MODEL, SPECTRASHAPE 9010",
+   "Order": 1087355,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0845399-000",
+   "Material_Description": "KIT,DECAL,MODEL SPRCTRAFILM 8660",
+   "Order": 1087354,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0607019-000",
+   "Material_Description": "OPTION,SWE-EP",
+   "Order": 1087350,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0845399-000",
+   "Material_Description": "KIT,DECAL,MODEL SPRCTRAFILM 8660",
+   "Order": 1087349,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0597905-000",
+   "Material_Description": "OPTION,COMPENSATOR,C/W LDSR,GEN8 SE",
+   "Order": 1087348,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638710-000",
+   "Material_Description": "SSID INTG KIT",
+   "Order": 1087347,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638704-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR,VIKING",
+   "Order": 1087346,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0629129-000",
+   "Material_Description": "FEATURE,BBSE,EP/XP,F1",
+   "Order": 1087345,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0575637-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 10K V2",
+   "Order": 1087344,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0623771-000",
+   "Material_Description": "OPTION,FOG,F1",
+   "Order": 1087343,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614958-000",
+   "Material_Description": "OPTION,MSWAVECAL",
+   "Order": 1087342,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0597905-000",
+   "Material_Description": "OPTION,COMPENSATOR,C/W LDSR,GEN8 SE",
+   "Order": 1087341,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0597905-000",
+   "Material_Description": "OPTION,COMPENSATOR,C/W LDSR,GEN8 SE",
+   "Order": 1087340,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638710-000",
+   "Material_Description": "SSID INTG KIT",
+   "Order": 1087339,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0607019-000",
+   "Material_Description": "OPTION,SWE-EP",
+   "Order": 1087331,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638704-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR,VIKING",
+   "Order": 1087326,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0629129-000",
+   "Material_Description": "FEATURE,BBSE,EP/XP,F1",
+   "Order": 1087325,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614033-000",
+   "Material_Description": "TESTER,XP,SPECTRAFILM F1",
+   "Order": 1087324,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0344192-000",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 150W",
+   "Order": 1087287,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0129038-006",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 75W",
+   "Order": 1087274,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0126561-000",
+   "Material_Description": "OPTION, OLSA VER 2.2 W/ USB DONGLE",
+   "Order": 1087273,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087271,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087269,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0527023-000",
+   "Material_Description": "FEATURE,BBSE,ROW,SHELBY",
+   "Order": 1087253,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0567632-000",
+   "Material_Description": "KIT,AID,SP,ALERIS",
+   "Order": 1087250,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0372205-001",
+   "Material_Description": "KIT,SWE,ALERIS,ROW",
+   "Order": 1087249,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0100420-000",
+   "Material_Description": "OPTION,15X UVR,ALERIS",
+   "Order": 1087248,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1087247,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0100231-001",
+   "Material_Description": "FEATURE,WLR,ALERIS",
+   "Order": 1087246,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0100420-000",
+   "Material_Description": "OPTION,15X UVR,ALERIS",
+   "Order": 1087398,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0129038-006",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 75W",
+   "Order": 1087506,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0828181-000",
+   "Material_Description": "OPTION,DIGITAL NAVIGATION SYSTEM,SS11K",
+   "Order": 1087505,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0750855-000",
+   "Material_Description": "FEATURE,2.5UM IRSE",
+   "Order": 1087504,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0750868-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 11K_M",
+   "Order": 1087501,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0613804-000",
+   "Material_Description": "ASSY, N2 PURGE, 8810/8660 MATCHING,MAKE",
+   "Order": 1087493,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0693129-000",
+   "Material_Description": "KIT,UPGRADE,PARTICLE EXTRACTION,ALERIS",
+   "Order": 1087492,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0344192-000",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 150W",
+   "Order": 1087490,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0283708-000",
+   "Material_Description": "OPTION,EUVR,LOW NA MASK",
+   "Order": 1087486,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0117525-000",
+   "Material_Description": "ASSY,FOCUS DETECTOR,PR,ALERIS",
+   "Order": 1087485,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0283706-000",
+   "Material_Description": "FEATURE,240 BBSE,64SUMS,SPECTRA SHAPE",
+   "Order": 1087484,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0299229-000",
+   "Material_Description": "TESTER, SPECTRA SHAPE 8660",
+   "Order": 1087483,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0648236-000",
+   "Material_Description": "OPTION,KIT,SMOKE DETECTOR,SHELBY/VIKING",
+   "Order": 1087482,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087480,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087479,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087474,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087472,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0766777-000",
+   "Material_Description": "KIT,DECALS,KLA,SPECTRASHAPE 11K",
+   "Order": 1087469,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0129038-006",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 75W",
+   "Order": 1087468,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1087456,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0766777-000",
+   "Material_Description": "KIT,DECALS,KLA,SPECTRASHAPE 11K",
+   "Order": 1087455,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787018-000",
+   "Material_Description": "KIT,DECALS,ALERIS 8350",
+   "Order": 1087452,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0607019-000",
+   "Material_Description": "OPTION,SWE-EP",
+   "Order": 1087449,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0597905-000",
+   "Material_Description": "OPTION,COMPENSATOR,C/W LDSR,GEN8 SE",
+   "Order": 1087448,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638710-000",
+   "Material_Description": "SSID INTG KIT",
+   "Order": 1087447,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0629129-000",
+   "Material_Description": "FEATURE,BBSE,EP/XP,F1",
+   "Order": 1087445,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638704-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR,VIKING",
+   "Order": 1087444,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0575637-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 10K V2",
+   "Order": 1087443,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087439,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0789356-000",
+   "Material_Description": "KIT,DECALS,KLA,SPECTRASHAPE 12K",
+   "Order": 1087438,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087437,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0355174-000",
+   "Material_Description": "OPTION, OLSA, VER 4.2 W/USB DONGLE",
+   "Order": 1087419,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1087418,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1087417,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0546112-000",
+   "Material_Description": "KIT,DECALS,SPECTRASHAPE 10K",
+   "Order": 1087415,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087414,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087412,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0613744-000",
+   "Material_Description": "KIT,MAKE,IDESORBER,SP,ALERIS",
+   "Order": 1087400,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0372205-001",
+   "Material_Description": "KIT,SWE,ALERIS,ROW",
+   "Order": 1087399,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0629129-000",
+   "Material_Description": "FEATURE,BBSE,EP/XP,F1",
+   "Order": 1088022,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614033-000",
+   "Material_Description": "TESTER,XP,SPECTRAFILM F1",
+   "Order": 1088021,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0676538-000",
+   "Material_Description": "OPTION,940NM LED,PR,LDSR",
+   "Order": 1088020,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0715121-000",
+   "Material_Description": "OPTION,COMPENSATOR,SS11K",
+   "Order": 1088019,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0801880-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR-XP",
+   "Order": 1088018,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0802914-000",
+   "Material_Description": "FEATURE,BBSE,SS12K",
+   "Order": 1088017,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787175-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 12K",
+   "Order": 1088016,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0715121-000",
+   "Material_Description": "OPTION,COMPENSATOR,SS11K",
+   "Order": 1088013,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0712159-000",
+   "Material_Description": "LDSR INTEGRATION",
+   "Order": 1088011,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0750855-000",
+   "Material_Description": "FEATURE,2.5UM IRSE",
+   "Order": 1088010,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0750868-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 11K_M",
+   "Order": 1088009,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1088007,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0804803-000",
+   "Material_Description": "OPTION,COMPENSATOR,F10",
+   "Order": 1088006,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0975909-000",
+   "Material_Description": "KIT,UPGRADE,SE 170,V9,F10",
+   "Order": 1088004,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0754840-000",
+   "Material_Description": "KIT,INTEGRATION,SSID,SS11K",
+   "Order": 1088003,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748073-000",
+   "Material_Description": "OPTION,SWE-EP,SS11K",
+   "Order": 1088002,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0990091-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR-HR,F10",
+   "Order": 1088001,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0837211-000",
+   "Material_Description": "FEATURE IRSE 2.5UM,HS,F10",
+   "Order": 1088000,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0745640-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 11K",
+   "Order": 1087999,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "1010668-000",
+   "Material_Description": "ASSY,CHUCK W/STRESS & WTM,CERAM,300MM",
+   "Order": 1087998,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0669038-000",
+   "Material_Description": "OPTION,OLSA,VER 6.0 GR W/USB DONGLE",
+   "Order": 1087883,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0582793-000",
+   "Material_Description": "OPTION KIT,REMOTE UI,DFIM",
+   "Order": 1087882,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0715121-000",
+   "Material_Description": "OPTION,COMPENSATOR,SS11K",
+   "Order": 1087880,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0715121-000",
+   "Material_Description": "OPTION,COMPENSATOR,SS11K",
+   "Order": 1087879,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0129038-006",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 75W",
+   "Order": 1087874,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787018-000",
+   "Material_Description": "KIT,DECALS,ALERIS 8350",
+   "Order": 1087873,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1087872,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0612672-000",
+   "Material_Description": "KIT,DECALS,SPECTRAFILM F1",
+   "Order": 1087871,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0560995-000",
+   "Material_Description": "SPECIAL,EMO PROCON INTRFCE,SHELBY,SONY",
+   "Order": 1087870,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0715121-000",
+   "Material_Description": "OPTION,COMPENSATOR,SS11K",
+   "Order": 1087869,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0727577-000",
+   "Material_Description": "OPTION,SEISMIC RESTRAINT,TESTER,SS11K",
+   "Order": 1087867,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0712159-000",
+   "Material_Description": "LDSR INTEGRATION",
+   "Order": 1087866,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0750855-000",
+   "Material_Description": "FEATURE,2.5UM IRSE",
+   "Order": 1087865,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0597905-000",
+   "Material_Description": "OPTION,COMPENSATOR,C/W LDSR,GEN8 SE",
+   "Order": 1088057,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638704-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR,VIKING",
+   "Order": 1088056,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0624483-000",
+   "Material_Description": "FEATURE, 2.2UM IRSE",
+   "Order": 1088055,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0575637-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 10K V2",
+   "Order": 1088054,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0718914-000",
+   "Material_Description": "FIBER,400UM,5M,AL,.22NA,SMA",
+   "Order": 1088052,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0200340-000",
+   "Material_Description": "OPTION,UVR,1X OBJ,ALERIS",
+   "Order": 1088051,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0861457-000",
+   "Material_Description": "FEATURE,WLR & IR LED 850,ALERIS",
+   "Order": 1088050,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0592116-000",
+   "Material_Description": "FEATURE,BBSE,240/UV,ALERIS 8350,ROW",
+   "Order": 1088049,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0221128-000",
+   "Material_Description": "TESTER,ALERIS 8350",
+   "Order": 1088048,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0718914-000",
+   "Material_Description": "FIBER,400UM,5M,AL,.22NA,SMA",
+   "Order": 1088047,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0200340-000",
+   "Material_Description": "OPTION,UVR,1X OBJ,ALERIS",
+   "Order": 1088046,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0861457-000",
+   "Material_Description": "FEATURE,WLR & IR LED 850,ALERIS",
+   "Order": 1088045,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0592116-000",
+   "Material_Description": "FEATURE,BBSE,240/UV,ALERIS 8350,ROW",
+   "Order": 1088043,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0221128-000",
+   "Material_Description": "TESTER,ALERIS 8350",
+   "Order": 1088042,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0648236-000",
+   "Material_Description": "OPTION,KIT,SMOKE DETECTOR,SHELBY/VIKING",
+   "Order": 1088041,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0597905-000",
+   "Material_Description": "OPTION,COMPENSATOR,C/W LDSR,GEN8 SE",
+   "Order": 1088040,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638704-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR,VIKING",
+   "Order": 1088039,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0595800-000",
+   "Material_Description": "FEATURE,BBSE,MICRO SPOT,C/W LDSR,VIKING",
+   "Order": 1088038,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0658195-000",
+   "Material_Description": "OPTION,COMPENSATOR,C/W LDSR,3DF",
+   "Order": 1088037,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638704-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR,VIKING",
+   "Order": 1088036,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0624483-000",
+   "Material_Description": "FEATURE, 2.2UM IRSE",
+   "Order": 1088035,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0575637-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 10K V2",
+   "Order": 1088034,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0575637-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 10K V2",
+   "Order": 1088033,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1088032,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0783624-000",
+   "Material_Description": "ASSY,ILLUMINATOR,SE,M,SS12K",
+   "Order": 1088031,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1088030,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1088029,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0623771-000",
+   "Material_Description": "OPTION,FOG,F1",
+   "Order": 1088028,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614958-000",
+   "Material_Description": "OPTION,MSWAVECAL",
+   "Order": 1088027,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0597905-000",
+   "Material_Description": "OPTION,COMPENSATOR,C/W LDSR,GEN8 SE",
+   "Order": 1088026,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0607019-000",
+   "Material_Description": "OPTION,SWE-EP",
+   "Order": 1088025,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1088024,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0630252-000",
+   "Material_Description": "OPTION,DIGITAL NAVIGATION SYSTEM",
+   "Order": 1088023,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0750868-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 11K_M",
+   "Order": 1087864,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0283706-000",
+   "Material_Description": "FEATURE,240 BBSE,64SUMS,SPECTRA SHAPE",
+   "Order": 1087753,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0299229-000",
+   "Material_Description": "TESTER, SPECTRA SHAPE 8660",
+   "Order": 1087752,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0693129-000",
+   "Material_Description": "KIT,UPGRADE,PARTICLE EXTRACTION,ALERIS",
+   "Order": 1087751,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0100231-001",
+   "Material_Description": "FEATURE,WLR,ALERIS",
+   "Order": 1087750,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0283706-000",
+   "Material_Description": "FEATURE,240 BBSE,64SUMS,SPECTRA SHAPE",
+   "Order": 1087749,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0754738-000",
+   "Material_Description": "TESTER, SPECTRA FILM SF8660",
+   "Order": 1087748,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0129038-006",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 75W",
+   "Order": 1087745,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0129038-006",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 75W",
+   "Order": 1087744,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087743,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0612672-000",
+   "Material_Description": "KIT,DECALS,SPECTRAFILM F1",
+   "Order": 1087732,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0556494-001",
+   "Material_Description": "KIT, KBD, CNTRL",
+   "Order": 1087731,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0065903-001",
+   "Material_Description": "VOLTAGE SAG COMPENSATOR,FX",
+   "Order": 1087730,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0651425-000",
+   "Material_Description": "KIT,DECALS,SPECTRASHAPE 10K 3D-FLASH",
+   "Order": 1087725,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0676538-000",
+   "Material_Description": "OPTION,940NM LED,PR,LDSR",
+   "Order": 1087724,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0801880-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR-XP",
+   "Order": 1087722,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0802914-000",
+   "Material_Description": "FEATURE,BBSE,SS12K",
+   "Order": 1087720,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787175-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 12K",
+   "Order": 1087719,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0727577-000",
+   "Material_Description": "OPTION,SEISMIC RESTRAINT,TESTER,SS11K",
+   "Order": 1087714,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0355174-000",
+   "Material_Description": "OPTION, OLSA, VER 4.2 W/USB DONGLE",
+   "Order": 1087713,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0727577-000",
+   "Material_Description": "OPTION,SEISMIC RESTRAINT,TESTER,SS11K",
+   "Order": 1087711,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0546112-000",
+   "Material_Description": "KIT,DECALS,SPECTRASHAPE 10K",
+   "Order": 1087710,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787018-000",
+   "Material_Description": "KIT,DECALS,ALERIS 8350",
+   "Order": 1087708,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0669038-000",
+   "Material_Description": "OPTION,OLSA,VER 6.0 GR W/USB DONGLE",
+   "Order": 1087707,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0582793-000",
+   "Material_Description": "OPTION KIT,REMOTE UI,DFIM",
+   "Order": 1087705,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087683,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0129038-006",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 75W",
+   "Order": 1087596,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0344192-000",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 150W",
+   "Order": 1087595,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0129038-006",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 75W",
+   "Order": 1087594,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0344192-000",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 150W",
+   "Order": 1087593,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0546112-000",
+   "Material_Description": "KIT,DECALS,SPECTRASHAPE 10K",
+   "Order": 1087576,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0845399-000",
+   "Material_Description": "KIT,DECAL,MODEL SPRCTRAFILM 8660",
+   "Order": 1087575,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0795460-000",
+   "Material_Description": "KIT,DECALS,KLA,ALERIS 8500",
+   "Order": 1087574,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1087565,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0597905-000",
+   "Material_Description": "OPTION,COMPENSATOR,C/W LDSR,GEN8 SE",
+   "Order": 1087861,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0630252-000",
+   "Material_Description": "OPTION,DIGITAL NAVIGATION SYSTEM",
+   "Order": 1087860,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0804806-000",
+   "Material_Description": "FEATURE,BBSE,STD SPOT,GF,CF,SS10KF",
+   "Order": 1087859,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0575637-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 10K V2",
+   "Order": 1087858,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0790589-000",
+   "Material_Description": "OPTION,LDSR-XP,SS12K",
+   "Order": 1087847,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0825352-000",
+   "Material_Description": "ASSY,OPTICS,LDSR-HR,F10",
+   "Order": 1087846,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0715121-000",
+   "Material_Description": "OPTION,COMPENSATOR,SS11K",
+   "Order": 1087787,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0712159-000",
+   "Material_Description": "LDSR INTEGRATION",
+   "Order": 1087786,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0714778-000",
+   "Material_Description": "FEATURE,BBSE,SS11K-i",
+   "Order": 1087785,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0715134-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 11KI",
+   "Order": 1087783,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0344192-000",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 150W",
+   "Order": 1087779,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0344192-000",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 150W",
+   "Order": 1087778,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0862467-000",
+   "Material_Description": "LDSR INTEGRATION, ROW",
+   "Order": 1087776,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0714778-000",
+   "Material_Description": "FEATURE,BBSE,SS11K-i",
+   "Order": 1087775,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0613804-000",
+   "Material_Description": "ASSY, N2 PURGE, 8810/8660 MATCHING,MAKE",
+   "Order": 1087774,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0693129-000",
+   "Material_Description": "KIT,UPGRADE,PARTICLE EXTRACTION,ALERIS",
+   "Order": 1087773,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0283708-000",
+   "Material_Description": "OPTION,EUVR,LOW NA MASK",
+   "Order": 1087772,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0117525-000",
+   "Material_Description": "ASSY,FOCUS DETECTOR,PR,ALERIS",
+   "Order": 1087771,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0283706-000",
+   "Material_Description": "FEATURE,240 BBSE,64SUMS,SPECTRA SHAPE",
+   "Order": 1087770,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0299229-000",
+   "Material_Description": "TESTER, SPECTRA SHAPE 8660",
+   "Order": 1087769,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0745640-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 11K",
+   "Order": 1087767,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0344192-000",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 150W",
+   "Order": 1087766,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0718914-000",
+   "Material_Description": "FIBER,400UM,5M,AL,.22NA,SMA",
+   "Order": 1087764,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0200340-000",
+   "Material_Description": "OPTION,UVR,1X OBJ,ALERIS",
+   "Order": 1087763,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0861457-000",
+   "Material_Description": "FEATURE,WLR & IR LED 850,ALERIS",
+   "Order": 1087762,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0592116-000",
+   "Material_Description": "FEATURE,BBSE,240/UV,ALERIS 8350,ROW",
+   "Order": 1087761,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0221128-000",
+   "Material_Description": "TESTER,ALERIS 8350",
+   "Order": 1087760,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0669038-000",
+   "Material_Description": "OPTION,OLSA,VER 6.0 GR W/USB DONGLE",
+   "Order": 1087759,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787018-000",
+   "Material_Description": "KIT,DECALS,ALERIS 8350",
+   "Order": 1087758,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1087757,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0612672-000",
+   "Material_Description": "KIT,DECALS,SPECTRAFILM F1",
+   "Order": 1087756,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0283708-000",
+   "Material_Description": "OPTION,EUVR,LOW NA MASK",
+   "Order": 1087755,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0117525-000",
+   "Material_Description": "ASSY,FOCUS DETECTOR,PR,ALERIS",
+   "Order": 1087754,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0256449-000",
+   "Material_Description": "FEATURE,BBSE,150/VUV,ALERIS 8510",
+   "Order": 1087245,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614958-000",
+   "Material_Description": "OPTION,MSWAVECAL",
+   "Order": 1085678,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0630252-000",
+   "Material_Description": "OPTION,DIGITAL NAVIGATION SYSTEM",
+   "Order": 1085671,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1085853,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638704-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR,VIKING",
+   "Order": 1085858,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614958-000",
+   "Material_Description": "OPTION,MSWAVECAL",
+   "Order": 1085665,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1085663,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1085648,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0613744-000",
+   "Material_Description": "KIT,MAKE,IDESORBER,SP,ALERIS",
+   "Order": 1085647,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638704-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR,VIKING",
+   "Order": 1085889,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1085940,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0126561-000",
+   "Material_Description": "OPTION, OLSA VER 2.2 W/ USB DONGLE",
+   "Order": 1085942,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1085946,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614033-000",
+   "Material_Description": "TESTER,XP,SPECTRAFILM F1",
+   "Order": 1086018,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0673967-000",
+   "Material_Description": "FEATURE, 2.2UM IRSE,F1",
+   "Order": 1086019,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638704-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR,VIKING",
+   "Order": 1086020,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0607019-000",
+   "Material_Description": "OPTION,SWE-EP",
+   "Order": 1086021,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0635153-000",
+   "Material_Description": "KIT,SSID,C/W V2 FSE,F1",
+   "Order": 1086022,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0372205-001",
+   "Material_Description": "KIT,SWE,ALERIS,ROW",
+   "Order": 1085646,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0283706-000",
+   "Material_Description": "FEATURE,240 BBSE,64SUMS,SPECTRA SHAPE",
+   "Order": 1085639,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638704-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR,VIKING",
+   "Order": 1085603,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0658195-000",
+   "Material_Description": "OPTION,COMPENSATOR,C/W LDSR,3DF",
+   "Order": 1085599,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638704-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR,VIKING",
+   "Order": 1085598,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0624483-000",
+   "Material_Description": "FEATURE, 2.2UM IRSE",
+   "Order": 1085597,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1085559,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0372205-001",
+   "Material_Description": "KIT,SWE,ALERIS,ROW",
+   "Order": 1085551,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0817727-000",
+   "Material_Description": "KIT,DECALS,KLA,SPECTRAFILM F10-L",
+   "Order": 1085518,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0355174-000",
+   "Material_Description": "OPTION, OLSA, VER 4.2 W/USB DONGLE",
+   "Order": 1085440,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0266227-001",
+   "Material_Description": "KIT,DECALS,SPECTRA SHAPE 8660",
+   "Order": 1085439,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1085431,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0816088-000",
+   "Material_Description": "ASSY,PLATEN,300MM,HB2,LBC,LMC",
+   "Order": 1085403,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0801880-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR-XP",
+   "Order": 1085399,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0831542-000",
+   "Material_Description": "FEATURE,BBSE,SMALL SPOT,LS12K",
+   "Order": 1085398,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787175-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 12K",
+   "Order": 1085397,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0712159-000",
+   "Material_Description": "LDSR INTEGRATION",
+   "Order": 1085392,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0714778-000",
+   "Material_Description": "FEATURE,BBSE,SS11K-i",
+   "Order": 1085391,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614958-000",
+   "Material_Description": "OPTION,MSWAVECAL",
+   "Order": 1086024,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1086294,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0714778-000",
+   "Material_Description": "FEATURE,BBSE,SS11K-i",
+   "Order": 1086293,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0745640-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 11K",
+   "Order": 1086292,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787018-000",
+   "Material_Description": "KIT,DECALS,ALERIS 8350",
+   "Order": 1086290,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0575683-000",
+   "Material_Description": "OPTION,LDSR,VIKING",
+   "Order": 1086287,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0344192-000",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 150W",
+   "Order": 1086274,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086264,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787019-000",
+   "Material_Description": "KIT,DECALS,ALERIS 8510",
+   "Order": 1086258,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1086198,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1086197,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086195,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638704-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR,VIKING",
+   "Order": 1086192,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0624483-000",
+   "Material_Description": "FEATURE, 2.2UM IRSE",
+   "Order": 1086191,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0575637-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 10K V2",
+   "Order": 1086189,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0789356-000",
+   "Material_Description": "KIT,DECALS,KLA,SPECTRASHAPE 12K",
+   "Order": 1086187,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0376421-000",
+   "Material_Description": "TESTER,SPECTRA SHAPE 9010",
+   "Order": 1086182,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086178,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1086154,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1086151,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1086150,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0556494-001",
+   "Material_Description": "KIT, KBD, CNTRL",
+   "Order": 1086138,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0129038-006",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 75W",
+   "Order": 1086136,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1086132,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787018-000",
+   "Material_Description": "KIT,DECALS,ALERIS 8350",
+   "Order": 1086110,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1086108,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0623771-000",
+   "Material_Description": "OPTION,FOG,F1",
+   "Order": 1086051,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614958-000",
+   "Material_Description": "OPTION,MSWAVECAL",
+   "Order": 1086050,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0607019-000",
+   "Material_Description": "OPTION,SWE-EP",
+   "Order": 1086048,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0630252-000",
+   "Material_Description": "OPTION,DIGITAL NAVIGATION SYSTEM",
+   "Order": 1086047,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614033-000",
+   "Material_Description": "TESTER,XP,SPECTRAFILM F1",
+   "Order": 1086043,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0597905-000",
+   "Material_Description": "OPTION,COMPENSATOR,C/W LDSR,GEN8 SE",
+   "Order": 1086042,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638704-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR,VIKING",
+   "Order": 1086041,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0595800-000",
+   "Material_Description": "FEATURE,BBSE,MICRO SPOT,C/W LDSR,VIKING",
+   "Order": 1086040,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0575637-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 10K V2",
+   "Order": 1086039,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0651006-000",
+   "Material_Description": "KIT,NLR,F1",
+   "Order": 1086025,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787175-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 12K",
+   "Order": 1085387,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0784700-001",
+   "Material_Description": "ASSY,UV DETECTOR,SPECTRO,SS12K",
+   "Order": 1084138,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0308246-000",
+   "Material_Description": "RDM SERVER FOR ALERIS / SPECTRA SHAPE",
+   "Order": 1083921,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0308246-000",
+   "Material_Description": "RDM SERVER FOR ALERIS / SPECTRA SHAPE",
+   "Order": 1083920,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0801880-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR-XP",
+   "Order": 1083587,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787175-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 12K",
+   "Order": 1083585,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0755206-000",
+   "Material_Description": "KIT,DECALS,LITHOSHAPE 11K",
+   "Order": 1083582,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0221128-000",
+   "Material_Description": "TESTER,ALERIS 8350",
+   "Order": 1083549,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748073-000",
+   "Material_Description": "OPTION,SWE-EP,SS11K",
+   "Order": 1083516,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0755206-000",
+   "Material_Description": "KIT,DECALS,LITHOSHAPE 11K",
+   "Order": 1083299,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0861457-000",
+   "Material_Description": "FEATURE,WLR & IR LED 850,ALERIS",
+   "Order": 1082914,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0792813-000",
+   "Material_Description": "FEATURE,BBSE,240/UV,ALERIS 8370,ROW",
+   "Order": 1082913,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0862467-000",
+   "Material_Description": "LDSR INTEGRATION, ROW",
+   "Order": 1082844,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0676538-000",
+   "Material_Description": "OPTION,940NM LED,PR,LDSR",
+   "Order": 1082688,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0842074-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 11K_S",
+   "Order": 1082680,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0200340-000",
+   "Material_Description": "OPTION,UVR,1X OBJ,ALERIS",
+   "Order": 1082541,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0221128-000",
+   "Material_Description": "TESTER,ALERIS 8350",
+   "Order": 1082538,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0841808-000",
+   "Material_Description": "KIT,UPGRADE,PASSIVE ISOLATION,SS11K",
+   "Order": 1082355,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0804803-000",
+   "Material_Description": "OPTION,COMPENSATOR,F10",
+   "Order": 1082099,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0745640-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 11K",
+   "Order": 1082093,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0960431-000",
+   "Material_Description": "FEATURE,BBSE,SS11K,ROW",
+   "Order": 1082012,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0592116-000",
+   "Material_Description": "FEATURE,BBSE,240/UV,ALERIS 8350,ROW",
+   "Order": 1081811,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0379804-000",
+   "Material_Description": "KIT, N2 PURGE, MATCHING",
+   "Order": 1081803,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0805176-002",
+   "Material_Description": "KIT,UPGRADE,MODULAR ELECTRONIC BOX,SS12K",
+   "Order": 1081668,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787175-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 12K",
+   "Order": 1081617,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0842074-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 11K_S",
+   "Order": 1081438,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0837027-000",
+   "Material_Description": "FEATURE,IRSE2.5,SS11K_S",
+   "Order": 1081437,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0671131-000",
+   "Material_Description": "FEATURE,WLR & IR LED 780,ALERIS",
+   "Order": 1080850,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0818511-000",
+   "Material_Description": "ASSY,PDA,SPECTRO,2.5UM IRSE",
+   "Order": 1080522,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0805176-002",
+   "Material_Description": "KIT,UPGRADE,MODULAR ELECTRONIC BOX,SS12K",
+   "Order": 1080018,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0818511-000",
+   "Material_Description": "ASSY,PDA,SPECTRO,2.5UM IRSE",
+   "Order": 1078489,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0837027-000",
+   "Material_Description": "FEATURE,IRSE2.5,SS11K_S",
+   "Order": 1077669,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787500-000",
+   "Material_Description": "KIT,UPGRADE,SE 170,F10",
+   "Order": 1077557,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0673967-000",
+   "Material_Description": "FEATURE, 2.2UM IRSE,F1",
+   "Order": 1077398,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0837027-000",
+   "Material_Description": "FEATURE,IRSE2.5,SS11K_S",
+   "Order": 1076797,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0671131-000",
+   "Material_Description": "FEATURE,WLR & IR LED 780,ALERIS",
+   "Order": 1076676,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0837211-000",
+   "Material_Description": "FEATURE IRSE 2.5UM,HS,F10",
+   "Order": 1084175,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0801880-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR-XP",
+   "Order": 1085384,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0831542-000",
+   "Material_Description": "FEATURE,BBSE,SMALL SPOT,LS12K",
+   "Order": 1085381,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1085313,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0613744-000",
+   "Material_Description": "KIT,MAKE,IDESORBER,SP,ALERIS",
+   "Order": 1085307,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0372205-001",
+   "Material_Description": "KIT,SWE,ALERIS,ROW",
+   "Order": 1085305,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638710-000",
+   "Material_Description": "SSID INTG KIT",
+   "Order": 1085230,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0308246-000",
+   "Material_Description": "RDM SERVER FOR ALERIS / SPECTRA SHAPE",
+   "Order": 1085213,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0308246-000",
+   "Material_Description": "RDM SERVER FOR ALERIS / SPECTRA SHAPE",
+   "Order": 1085212,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614958-000",
+   "Material_Description": "OPTION,MSWAVECAL",
+   "Order": 1085207,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0712159-000",
+   "Material_Description": "LDSR INTEGRATION",
+   "Order": 1085073,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0714778-000",
+   "Material_Description": "FEATURE,BBSE,SS11K-i",
+   "Order": 1085072,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0712159-000",
+   "Material_Description": "LDSR INTEGRATION",
+   "Order": 1085059,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614958-000",
+   "Material_Description": "OPTION,MSWAVECAL",
+   "Order": 1085044,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0712159-000",
+   "Material_Description": "LDSR INTEGRATION",
+   "Order": 1085028,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0597905-000",
+   "Material_Description": "OPTION,COMPENSATOR,C/W LDSR,GEN8 SE",
+   "Order": 1084909,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0712159-000",
+   "Material_Description": "LDSR INTEGRATION",
+   "Order": 1084897,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0841808-000",
+   "Material_Description": "KIT,UPGRADE,PASSIVE ISOLATION,SS11K",
+   "Order": 1084881,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0713460-000",
+   "Material_Description": "KIT,ELECTRONIC/SW,SWE,SFX/F5X",
+   "Order": 1084873,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0725792-000",
+   "Material_Description": "ASSY,PR,FOCUS,SWE,ELMO,SFX/F5X",
+   "Order": 1084871,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0863610-000",
+   "Material_Description": "KIT,SMOKE DETECTOR,F20",
+   "Order": 1084702,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0980502-000",
+   "Material_Description": "KIT,CABLES,SMOKE DETECTOR,F20",
+   "Order": 1084701,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614958-000",
+   "Material_Description": "OPTION,MSWAVECAL",
+   "Order": 1084676,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0712159-000",
+   "Material_Description": "LDSR INTEGRATION",
+   "Order": 1084664,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0714778-000",
+   "Material_Description": "FEATURE,BBSE,SS11K-i",
+   "Order": 1084663,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614958-000",
+   "Material_Description": "OPTION,MSWAVECAL",
+   "Order": 1084634,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0712159-000",
+   "Material_Description": "LDSR INTEGRATION",
+   "Order": 1084609,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614958-000",
+   "Material_Description": "OPTION,MSWAVECAL",
+   "Order": 1084544,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0673967-000",
+   "Material_Description": "FEATURE, 2.2UM IRSE,F1",
+   "Order": 1084537,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0712159-000",
+   "Material_Description": "LDSR INTEGRATION",
+   "Order": 1084429,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0837027-000",
+   "Material_Description": "FEATURE,IRSE2.5,SS11K_S",
+   "Order": 1084428,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0673967-000",
+   "Material_Description": "FEATURE, 2.2UM IRSE,F1",
+   "Order": 1084269,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0814857-000",
+   "Material_Description": "KIT,UPGRADE,1.2MM CAPABILITY,SS11K",
+   "Order": 1084185,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0804803-000",
+   "Material_Description": "OPTION,COMPENSATOR,F10",
+   "Order": 1084180,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748073-000",
+   "Material_Description": "OPTION,SWE-EP,SS11K",
+   "Order": 1084179,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0745640-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 11K",
+   "Order": 1084176,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787018-000",
+   "Material_Description": "KIT,DECALS,ALERIS 8350",
+   "Order": 1086889,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0565954-000",
+   "Material_Description": "OPTION,OLSA,V5.0 (BETA) W/SML USB DONGLE",
+   "Order": 1086887,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1086885,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0129038-006",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 75W",
+   "Order": 1086883,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0344192-000",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 150W",
+   "Order": 1086879,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787018-000",
+   "Material_Description": "KIT,DECALS,ALERIS 8350",
+   "Order": 1086877,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0129038-006",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 75W",
+   "Order": 1086872,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0129038-006",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 75W",
+   "Order": 1086871,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638704-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR,VIKING",
+   "Order": 1086852,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0629129-000",
+   "Material_Description": "FEATURE,BBSE,EP/XP,F1",
+   "Order": 1086851,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0575637-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 10K V2",
+   "Order": 1086850,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0575683-000",
+   "Material_Description": "OPTION,LDSR,VIKING",
+   "Order": 1086840,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0814857-000",
+   "Material_Description": "KIT,UPGRADE,1.2MM CAPABILITY,SS11K",
+   "Order": 1086837,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748073-000",
+   "Material_Description": "OPTION,SWE-EP,SS11K",
+   "Order": 1086836,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614958-000",
+   "Material_Description": "OPTION,MSWAVECAL",
+   "Order": 1086834,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0804803-000",
+   "Material_Description": "OPTION,COMPENSATOR,F10",
+   "Order": 1086833,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0837211-000",
+   "Material_Description": "FEATURE IRSE 2.5UM,HS,F10",
+   "Order": 1086831,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0745640-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 11K",
+   "Order": 1086830,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0096500-000",
+   "Material_Description": "ASSY, DBS/SE OPTICS SPECTRAFX 200",
+   "Order": 1086820,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0096495-000",
+   "Material_Description": "FINAL ASSY, SPECTRAFX 200",
+   "Order": 1086819,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086817,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0129038-006",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 75W",
+   "Order": 1086814,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1086813,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0687197-000",
+   "Material_Description": "KIT, UPGRADE,HIGH VAC FLOW, F5X/SPFX",
+   "Order": 1086808,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0816088-000",
+   "Material_Description": "ASSY,PLATEN,300MM,HB2,LBC,LMC",
+   "Order": 1086804,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0597905-000",
+   "Material_Description": "OPTION,COMPENSATOR,C/W LDSR,GEN8 SE",
+   "Order": 1086789,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787018-000",
+   "Material_Description": "KIT,DECALS,ALERIS 8350",
+   "Order": 1086787,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0623771-000",
+   "Material_Description": "OPTION,FOG,F1",
+   "Order": 1086783,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614958-000",
+   "Material_Description": "OPTION,MSWAVECAL",
+   "Order": 1086782,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0607019-000",
+   "Material_Description": "OPTION,SWE-EP",
+   "Order": 1086781,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0630252-000",
+   "Material_Description": "OPTION,DIGITAL NAVIGATION SYSTEM",
+   "Order": 1086780,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0629129-000",
+   "Material_Description": "FEATURE,BBSE,EP/XP,F1",
+   "Order": 1086779,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614033-000",
+   "Material_Description": "TESTER,XP,SPECTRAFILM F1",
+   "Order": 1086778,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086767,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0765040-000",
+   "Material_Description": "OPTION,OLSA,VER 6.2 GR W/USB DONGLE",
+   "Order": 1086753,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0096495-000",
+   "Material_Description": "FINAL ASSY, SPECTRAFX 200",
+   "Order": 1087165,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0355174-000",
+   "Material_Description": "OPTION, OLSA, VER 4.2 W/USB DONGLE",
+   "Order": 1087243,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0291462-000",
+   "Material_Description": "TESTER,ALERIS 8510",
+   "Order": 1087241,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0795460-000",
+   "Material_Description": "KIT,DECALS,KLA,ALERIS 8500",
+   "Order": 1087236,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0613804-000",
+   "Material_Description": "ASSY, N2 PURGE, 8810/8660 MATCHING,MAKE",
+   "Order": 1087234,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0693129-000",
+   "Material_Description": "KIT,UPGRADE,PARTICLE EXTRACTION,ALERIS",
+   "Order": 1087233,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0283708-000",
+   "Material_Description": "OPTION,EUVR,LOW NA MASK",
+   "Order": 1087232,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0117525-000",
+   "Material_Description": "ASSY,FOCUS DETECTOR,PR,ALERIS",
+   "Order": 1087231,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0299229-000",
+   "Material_Description": "TESTER, SPECTRA SHAPE 8660",
+   "Order": 1087229,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0556674-000",
+   "Material_Description": "OPTION,EUVR,LOW NA,ROW,SHELBY",
+   "Order": 1087227,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0353539-000",
+   "Material_Description": "FEATURE,PR,SHELBY FILMS",
+   "Order": 1087226,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0376421-000",
+   "Material_Description": "TESTER,SPECTRA SHAPE 9010",
+   "Order": 1087224,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1087223,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1087222,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0613744-000",
+   "Material_Description": "KIT,MAKE,IDESORBER,SP,ALERIS",
+   "Order": 1087221,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0372205-001",
+   "Material_Description": "KIT,SWE,ALERIS,ROW",
+   "Order": 1087220,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0100231-001",
+   "Material_Description": "FEATURE,WLR,ALERIS",
+   "Order": 1087219,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0100228-000",
+   "Material_Description": "FEATURE,BBSE,150/VUV,ALERIS 8500",
+   "Order": 1087218,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0221129-000",
+   "Material_Description": "TESTER,ALERIS 8500",
+   "Order": 1087217,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0714339-000",
+   "Material_Description": "OPTION,LDSR-EP,SS11K",
+   "Order": 1087215,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0778454-000",
+   "Material_Description": "ASSY,SPECTROMETER,BBSE,MAKE,SS12K",
+   "Order": 1087213,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0546112-000",
+   "Material_Description": "KIT,DECALS,SPECTRASHAPE 10K",
+   "Order": 1087211,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1087207,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0687197-000",
+   "Material_Description": "KIT, UPGRADE,HIGH VAC FLOW, F5X/SPFX",
+   "Order": 1087196,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0100231-001",
+   "Material_Description": "FEATURE,WLR,ALERIS",
+   "Order": 1087190,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0754738-000",
+   "Material_Description": "TESTER, SPECTRA FILM SF8660",
+   "Order": 1087188,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0567632-000",
+   "Material_Description": "KIT,AID,SP,ALERIS",
+   "Order": 1087184,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0372205-001",
+   "Material_Description": "KIT,SWE,ALERIS,ROW",
+   "Order": 1087183,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787018-000",
+   "Material_Description": "KIT,DECALS,ALERIS 8350",
+   "Order": 1087182,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554066-000",
+   "Material_Description": "KIT REMOTE UI TFIMS/QFIMS",
+   "Order": 1087181,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0100231-001",
+   "Material_Description": "FEATURE,WLR,ALERIS",
+   "Order": 1087179,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0256449-000",
+   "Material_Description": "FEATURE,BBSE,150/VUV,ALERIS 8510",
+   "Order": 1087178,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0291462-000",
+   "Material_Description": "TESTER,ALERIS 8510",
+   "Order": 1087176,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0355174-000",
+   "Material_Description": "OPTION, OLSA, VER 4.2 W/USB DONGLE",
+   "Order": 1087174,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0575683-000",
+   "Material_Description": "OPTION,LDSR,VIKING",
+   "Order": 1087173,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0096500-000",
+   "Material_Description": "ASSY, DBS/SE OPTICS SPECTRAFX 200",
+   "Order": 1087166,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0687197-000",
+   "Material_Description": "KIT, UPGRADE,HIGH VAC FLOW, F5X/SPFX",
+   "Order": 1086748,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1086391,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0676538-000",
+   "Material_Description": "OPTION,940NM LED,PR,LDSR",
+   "Order": 1086385,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787175-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 12K",
+   "Order": 1086382,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0801880-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR-XP",
+   "Order": 1086380,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086377,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0651006-000",
+   "Material_Description": "KIT,NLR,F1",
+   "Order": 1086372,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614958-000",
+   "Material_Description": "OPTION,MSWAVECAL",
+   "Order": 1086370,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0676538-000",
+   "Material_Description": "OPTION,940NM LED,PR,LDSR",
+   "Order": 1086368,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638710-000",
+   "Material_Description": "SSID INTG KIT",
+   "Order": 1086367,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0638704-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR,VIKING",
+   "Order": 1086365,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0673967-000",
+   "Material_Description": "FEATURE, 2.2UM IRSE,F1",
+   "Order": 1086364,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0614033-000",
+   "Material_Description": "TESTER,XP,SPECTRAFILM F1",
+   "Order": 1086363,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0748073-000",
+   "Material_Description": "OPTION,SWE-EP,SS11K",
+   "Order": 1086362,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0754840-000",
+   "Material_Description": "KIT,INTEGRATION,SSID,SS11K",
+   "Order": 1086360,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0712159-000",
+   "Material_Description": "LDSR INTEGRATION",
+   "Order": 1086359,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0750868-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 11K_M",
+   "Order": 1086357,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0308246-000",
+   "Material_Description": "RDM SERVER FOR ALERIS / SPECTRA SHAPE",
+   "Order": 1086356,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0308246-000",
+   "Material_Description": "RDM SERVER FOR ALERIS / SPECTRA SHAPE",
+   "Order": 1086355,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0065903-001",
+   "Material_Description": "VOLTAGE SAG COMPENSATOR,FX",
+   "Order": 1086350,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0556494-001",
+   "Material_Description": "KIT, KBD, CNTRL",
+   "Order": 1086349,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0862467-000",
+   "Material_Description": "LDSR INTEGRATION, ROW",
+   "Order": 1086343,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0714778-000",
+   "Material_Description": "FEATURE,BBSE,SS11K-i",
+   "Order": 1086342,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0745640-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 11K",
+   "Order": 1086341,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1086340,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086339,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1086330,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1086329,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0344192-000",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 150W",
+   "Order": 1086316,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0754738-000",
+   "Material_Description": "TESTER, SPECTRA FILM SF8660",
+   "Order": 1086314,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787018-000",
+   "Material_Description": "KIT,DECALS,ALERIS 8350",
+   "Order": 1086313,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1086311,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0510021-000",
+   "Material_Description": "KIT,DECALS,SPECTRAFILM LD10",
+   "Order": 1086309,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0755684-000",
+   "Material_Description": "KIT,INTEGRATION,LDSR,LS11K",
+   "Order": 1086297,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1086296,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1086295,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086401,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0129038-006",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 75W",
+   "Order": 1086743,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0766777-000",
+   "Material_Description": "KIT,DECALS,KLA,SPECTRASHAPE 11K",
+   "Order": 1086724,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1086723,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0765040-000",
+   "Material_Description": "OPTION,OLSA,VER 6.2 GR W/USB DONGLE",
+   "Order": 1086719,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0546112-000",
+   "Material_Description": "KIT,DECALS,SPECTRASHAPE 10K",
+   "Order": 1086710,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086703,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086702,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086701,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086700,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086699,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "1010658-000",
+   "Material_Description": "HB,LBC,LMC, FORK PLATEN W/PACKAGING, OFM",
+   "Order": 1086696,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0648236-000",
+   "Material_Description": "OPTION,KIT,SMOKE DETECTOR,SHELBY/VIKING",
+   "Order": 1086694,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0787018-000",
+   "Material_Description": "KIT,DECALS,ALERIS 8350",
+   "Order": 1086691,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1086689,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086688,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0592116-000",
+   "Material_Description": "FEATURE,BBSE,240/UV,ALERIS 8350,ROW",
+   "Order": 1086685,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0100420-000",
+   "Material_Description": "OPTION,15X UVR,ALERIS",
+   "Order": 1086683,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0671131-000",
+   "Material_Description": "FEATURE,WLR & IR LED 780,ALERIS",
+   "Order": 1086682,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0592116-000",
+   "Material_Description": "FEATURE,BBSE,240/UV,ALERIS 8350,ROW",
+   "Order": 1086681,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086679,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086669,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1086648,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086456,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0344192-000",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 150W",
+   "Order": 1086454,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0616264-000",
+   "Material_Description": "KIT,START-UP,MAKE,C/W MINI-RI,VIKING",
+   "Order": 1086452,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1086451,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554068-000",
+   "Material_Description": "MAIN ONLT LT4 CLR W/BUZ OPCON",
+   "Order": 1086449,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1086447,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0862467-000",
+   "Material_Description": "LDSR INTEGRATION, ROW",
+   "Order": 1086413,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0714778-000",
+   "Material_Description": "FEATURE,BBSE,SS11K-i",
+   "Order": 1086412,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0745640-000",
+   "Material_Description": "TESTER,SPECTRASHAPE 11K",
+   "Order": 1086410,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0648236-000",
+   "Material_Description": "OPTION,KIT,SMOKE DETECTOR,SHELBY/VIKING",
+   "Order": 1086407,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0344192-000",
+   "Material_Description": "KIT, STD START-UP, XENON LAMP 150W",
+   "Order": 1086406,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0586799-000",
+   "Material_Description": "OPTN,KIT,SFTY LBL,TOOL EXT,ENG/SIMP CHIN",
+   "Order": 1086404,
+   "Plant": 4002
+ }},
+ {
+   "model": "ts_system.wos",
+   "fields": { "Material": "0554066-000",
+   "Material_Description": "KIT REMOTE UI TFIMS/QFIMS",
+   "Order": 1086403,
+   "Plant": 4002
+ }}
+]

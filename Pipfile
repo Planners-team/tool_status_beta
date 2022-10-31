@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+requests = "*"
+apscheduler = "*"
+translators = "*"
+cloudscraper = "*"
+bs4 = "*"
+nltk = "*"
+sklearn = "*"
+lxml = "*"
+django-filter = "*"
+wslwinreg = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "*"

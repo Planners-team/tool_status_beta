@@ -1,0 +1,36 @@
+{% extends 'ts_system/base.html'%}
+{% load static %}
+
+{% block content %}
+{% if user.is_authenticated %}
+  <html lang="en" dir="ltr">
+  <head>
+    <h1 class = "text-center">Transfer Shipped UTID into an Open Tool</h1>
+  </head>
+
+  {% if perms.ts_system.change_ts_system %}
+
+    <body>
+      <p>Choose a UTID you would like to "unshipped", i,e. to transfer it from "shipped Tools" into "Open Tools" :</p>
+        <form method="POST" action="">
+          {% csrf_token %}
+        <select name="utid_transfer">
+            <option disabled="true" selected> -- Select UTID -- </option>
+            {% for utid in results %}
+            <option> {{utid.UTID}} </option>
+            {% endfor %}
+        </select>
+        <button type="submit">Transfer to Open Tools</button>
+
+  <h4 class = "text-center">{{message}}</h4>
+
+  {% else %}   
+  <h3> {{user}}, you are not authorized to access this page. </h3>
+  {% endif %}
+
+    </body>
+{% else %}
+  <h4 class = "text-center">You need to login to continue</h4>
+{% endif %}
+
+{% endblock %}

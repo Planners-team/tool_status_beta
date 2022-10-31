@@ -1,0 +1,48 @@
+{% extends 'ts_system/base.html'%}
+{% load static %}
+
+{% block content %}
+{% if user.is_authenticated %}
+  <html lang="en" dir="ltr">
+  <head>
+    <h1 class = "text-center">Swap UTIDs</h1>
+  </head>
+
+  {% if perms.ts_system.change_ts_system %}
+
+      <body>
+        <p>Choose 2 UTIDs you would like to swap:</p>
+        <p>This action will switch all(!) data fields between these 2 UTIDs</p>
+          <form method="POST" action="">
+            {% csrf_token %}
+          <select name="first">
+              <option disabled="true" selected> -- Select the First UTID -- </option>
+              {% for utid in results %}
+              <option> {{utid.UTID}} </option>
+              {% endfor %}
+          </select>
+  <br>
+  <br>
+          <select name="second">
+              <option disabled="true" selected> -- Select the Second UTID -- </option>
+              {% for utid in results %}
+              <option> {{utid.UTID}} </option>
+              {% endfor %}
+          </select>
+  <br>
+  <br>
+          <button type="submit">Swap UTIDs</button>
+
+    <h4 class = "text-center">{{message}}</h4>
+    </body>
+
+    {% else %}   
+    <h3> {{user}}, you are not authorized to access this page. </h3>
+    {% endif %}
+
+{% else %}
+  <h4 class = "text-center">You need to login to continue</h4>
+{% endif %}
+
+{% endblock %}
+

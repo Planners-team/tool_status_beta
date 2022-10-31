@@ -1,0 +1,251 @@
+<html>
+<head>
+<title>Tool Status: Home</title>
+</head>
+<body>
+  {% extends 'ts_system/base.html'%}
+  {% load static %}
+  {% block content %}
+  {% if user.is_authenticated %}
+
+  {% block custom_css %}
+  <style>
+    .second_table{
+      table-layout: fixed;
+      padding-left: 80px;
+    }
+    .second_table th, .second_table td {
+    padding: 5px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  .second_table th, .second_table td {
+  padding: 5px;
+  text-align: left;
+  border-bottom: 2px solid #ddd;
+  border-left: 2px solid #ddd;
+  }
+  td:first-child, th:first-child {
+  border-left: none;
+  }
+  .second_table tr:hover{
+    background-color: #96C0E5;
+  }
+  .grey {
+  background-color: rgba(#ddd);
+  }
+  .blue {
+  background-color: rgba(138, 162, 241, 0.25);
+  }
+  .turkiz {
+  background-color: rgba(118, 236, 230, 0.25);
+  }
+  </style>
+
+  {% endblock custom_css %}
+  {% block bodydata %}
+  
+    <!-- <form method='get' action='#'>
+      <div class="buttons">
+        <input type="submit" class="btn-green" value="Refresh" name="Refresh"/>
+      </div>
+    </form> -->
+  
+    <head>
+      <h1 class = "text-center">Open Tools {{family_name}}:</h1>
+    </head>
+    
+    <p> {{num_results}} results </p>
+
+    <!-- <a href="{% url 'export_csv_not_shipped'%}" class = "export_csv" ><span class="material-symbols-outlined"></span>Save Current Data to CSV</a>
+  <br><br> -->
+
+<!-- {{myFilter.form}} -->
+  <div class="container">
+      <div class="row">
+          <div class="col-lg-12">
+                  <div>
+                  <table class="second_table" name="data_table">
+                    <colgroup>
+                      <col class="grey" span="11" />
+                      <col class="blue" span="2" />
+                      <col class="turkiz" span="2"/>
+                      <col class="blue" span="2" />
+                      <col class="turkiz" span="2"/>                      
+                      <col class="blue" span="2" />
+                      <col class="turkiz" span="2"/>
+                      <col class="blue" span="2" />
+                      <col class="turkiz" span="2"/>
+                      <col class="blue" span="2" />
+                      <col class="turkiz" span="2"/>
+                    </colgroup>
+                      <tr>
+                          <th style="background-color:rgb(149, 159, 168)" >UTID</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Argo</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Tool</th>
+                          <th style="background-color:rgb(149, 159, 168)" >SO FID</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Customer</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Tool Status</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Open Date</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Ship Date</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Tool Start Date</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Comment</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Handler</th>
+                          <th style="background-color:rgba(10, 54, 199, 0.342)" >K MAT</th>
+                          <th style="background-color:rgba(10, 54, 199, 0.342)" >WO1</th>
+                          <th style="background-color:rgba(6, 104, 99, 0.384)" >Tester Type</th>
+                          <th style="background-color:rgba(6, 104, 99, 0.384)" >WO2</th>
+                          <th style="background-color:rgba(10, 54, 199, 0.342)">BBSE</th>
+                          <th style="background-color:rgba(10, 54, 199, 0.342)" >WO3</th>
+                          <th style="background-color:rgb(6, 104, 99, 0.384)" >WLR FD</th>
+                          <th style="background-color:rgb(6, 104, 99, 0.384)" >WO4</th>
+                          <th style="background-color:rgba(10, 54, 199, 0.342)" >OPTION LDSR</th>
+                          <th style="background-color:rgba(10, 54, 199, 0.342)" >WO5</th>
+                          <th style="background-color:rgb(6, 104, 99, 0.384)" >UVR eUVR</th>
+                          <th style="background-color:rgb(6, 104, 99, 0.384)" >WO6</th>
+                          <th style="background-color:rgba(10, 54, 199, 0.342)" >AiD SSiD</th>
+                          <th style="background-color:rgba(10, 54, 199, 0.342)" >WO7</th>
+                          <th style="background-color:rgb(6, 104, 99, 0.384)" >Compensator</th>
+                          <th style="background-color:rgb(6, 104, 99, 0.384)" >WO8</th>
+                          <th style="background-color:rgba(10, 54, 199, 0.342)" >MSWAVECAL</th>
+                          <th style="background-color:rgba(10, 54, 199, 0.342)" >WO9</th>
+                          <th style="background-color:rgb(6, 104, 99, 0.384)" >NLR Ceramic Chuck</th>
+                          <th style="background-color:rgb(6, 104, 99, 0.384)" >WO10</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Others</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Comments2</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Voucher</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Tool Family</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Configuration Path</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Is Shipped?</th>
+                          <th style="background-color:rgb(149, 159, 168)" >Last Updated at</th>
+                      </tr>
+                      {% for utid in utids %}
+                          <tr>
+                              <!-- <td >{{ utids.id }}</td> -->
+                              <td>{{ utid.UTID }}</td>
+                              <td>{{ utid.Argo_ID }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="Tool">{{ utid.Tool }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="SO_FID">{{ utid.SO_FID }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="Customer">{{ utid.Customer }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="tool_status">{{ utid.tool_status }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="Open_Date">{{ utid.Open_Date }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="Ship_Date">{{ utid.Ship_Date }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="Tool_start_date">{{ utid.Tool_start_date }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="Comment">{{ utid.Comment }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="Handler">{{ utid.Handler }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="K_MAT">{{ utid.K_MAT }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="WO1">{{ utid.WO1 }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="Tester_Type">{{ utid.Tester_Type }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="WO2">{{ utid.WO2 }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="BBSE">{{ utid.BBSE }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="WO3">{{ utid.WO3 }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="WLR_FD">{{ utid.WLR_FD }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="WO4">{{ utid.WO4 }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="OPTION_LDSR">{{ utid.OPTION_LDSR }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="WO5">{{ utid.WO5 }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="UVR_eUVR">{{ utid.UVR_eUVR }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="WO6">{{ utid.WO6 }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="AiD_SSiD">{{ utid.AiD_SSiD }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="WO7">{{ utid.WO7 }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="Compensator">{{ utid.Compensator }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="WO8">{{ utid.WO8 }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="MSWAVECAL">{{ utid.MSWAVECAL }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="WO9">{{ utid.WO9 }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="NLR_Ceramic_Chuck">{{ utid.NLR_Ceramic_Chuck }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="WO10">{{ utid.WO10 }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="Others">{{ utid.Others }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="Comments2">{{ utid.Comments2 }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="Voucher">{{ utid.Voucher }}</td>
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="tool_family">{{ utid.tool_family }}</td>
+                              <td>
+                                <!-- {% for item in utid.Configuration %}
+                                  <a href="#{{ utid.Configuration }}">{{ item }}</a>
+                                {% endfor %} -->
+                                {{ utid.Configuration }}
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="IS_SHIPPED">{{ utid.IS_SHIPPED }}</td>
+                              <!-- <td>
+                              <div>
+                                <input type="checkbox" id="scales" value="{{ utid.UTID }}" data-id="{{ utid.UTID }}" data-type="IS_SHIPPED" name="IS_SHIPPED">
+                                <label for="IS_SHIPPED"></label>
+                              </div>
+                              </td> -->
+                              <!-- <td class="editable" data-id="{{ utid.UTID }}" data-type="IS_SHIPPED">{{ utid.IS_SHIPPED }}</td> -->
+                              <td class="editable" data-id="{{ utid.UTID }}" data-type="created_at">{{ utid.created_at }}</td>
+                          </tr>
+                      {% endfor %}
+                  </table>
+  
+
+  </div>
+  {% endblock bodydata %}
+
+  <!-- {% block custom_js %} -->
+
+    {% if perms.ts_system.change_ts_system %}
+      <script>
+          $(document).ready(function(){
+              $(document).on("dblclick",".editable",function(){
+                  var value=$(this).text();
+                  var data_type=$(this).data("type");
+                  var input_type="text";
+                  if(data_type=="created_at")
+                  {
+                      input_type="datetime-local";
+                  }
+                  var input="<input type='"+input_type+"' class='input-data' value='"+value+"' class='form-control'>";
+                  $(this).html(input);
+                  $(this).removeClass("editable")
+              });
+
+              $(document).on("blur",".input-data",function(){
+                  var value=$(this).val();
+                  var td=$(this).parent("td");
+                  $(this).remove();
+                  td.html(value);
+                  td.addClass("editable");
+                  var type=td.data("type");
+                  sendToServer(td.data("id"),value,type);
+              });
+              $(document).on("keypress",".input-data",function(e){
+                  var key=e.which;
+                  if(key==13){
+                      var value=$(this).val();
+                      var td=$(this).parent("td");
+                      $(this).remove();
+                      td.html(value);
+                      td.addClass("editable");
+                    var type=td.data("type");
+                    sendToServer(td.data("id"),value,type);
+                  }
+              });
+
+              function sendToServer(id,value,type){
+                  let csrftoken = '{{ csrf_token }}'  
+                  console.log(id);
+                  console.log(value);
+                  console.log(type);
+                  $.ajax({
+                      url:"http://127.0.0.1:8000/saveUTID/",
+                      type:"POST",
+                      headers:{'X-CSRFToken':csrftoken},
+                      data:{id:id,type:type,value:value},
+                  })
+                  .done(function(response){
+                      console.log(response);
+                  })
+                  .fail(function(){
+                    console.log("Error Occured");
+                  });
+
+              }
+          });
+      </script>
+    {% endif %}
+  <!-- {% endblock custom_js %} -->
+
+  {% else %}
+    <h4 class = "text-center">You need to login to continue</h4>
+  {% endif %}
+</body>
+</html>
+{% endblock %}

@@ -1,0 +1,123 @@
+<html>
+<head>
+<title>Tool Status: Home</title>
+</head>
+<body>
+  {% extends 'ts_system/base.html'%}
+  {% load static %}
+  {% block content %}
+
+  {% block custom_css %}
+  <style>
+    .first_table{
+      border-collapse: collapse;
+      width: 100%;
+    }
+    .second_table{
+      table-layout: fixed;
+
+    }
+    .first_table th, .first_table td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: none;
+      vertical-align:top;
+    }
+    .second_table th, .second_table td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  .second_table th, .second_table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 2px solid #ddd;
+  border-left: 2px solid #ddd;
+  }
+  td:first-child, th:first-child {
+  border-left: none;
+  }
+  .second_table tr:hover{
+    background-color: #96C0E5;
+  }
+  .grey {
+  background-color: rgba(#ddd);
+  }
+  .blue {
+  background-color: rgba(75, 109, 223, 0.25);
+  }
+  .turkiz {
+  background-color: rgba(7, 207, 197, 0.25);
+  }
+.button-34 {
+  background: #ccccee;
+  border-radius: 999px;
+  box-shadow: #c9c9ee 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 12px 22px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
+}
+  </style>
+
+  {% endblock custom_css %}
+  {% if user.is_authenticated %}
+
+
+  <head>
+    <a href="{% url 'export_csv_not_shipped'%}" class = "export_csv" ><i class="bi bi-cloud-arrow-down"></i><span class="material-symbols-outlined"></span>      Export all Open Tools into a CSV</a>
+    <br><br>
+
+    <head>
+      <h1 class = "text-center">Open Tools by Families:</h1>
+    </head>
+  
+    <form method='get' action='#'>
+      <div class="buttons">
+        <input type="submit" class="btn-green" value="Reload Data" name="Reload Data"/>
+      </div>
+      <p>For the latest Argo Data please Reload data first</p>
+    </form>
+
+{{notification}}
+
+    <form method="POST" action="">
+      {% csrf_token %}
+    <input type="text" name="search_UTID" placeholder="Search UTID..."/>
+    <input type="text" name="search_Argo" placeholder="Search ArgoID..."/>
+    <input type="text" name="search_tool" placeholder="Search Tool Type..."/>
+    <input type="text" name="search_SO" placeholder="Search Sale Order..."/>
+    <input type="text" name="search_customer" placeholder="Search Costumer..."/>
+    <input type="text" name="search_status" placeholder="Search Status..."/>
+    <input type="text" name="search_wo" placeholder="Search WO..."/>
+      <button type="submit"><a href="/searched/"></a><i class="bi bi-search"></i></button>
+    </form>
+  
+          {% for family in family_list %}
+          <div>
+            <br>
+            <button type="button" class="button-34"><a href="/family_page?tool_family={{ family|urlencode }}">{{family}}</a></button>  
+            </br>
+          </div>
+          {% empty %}
+              <p>No objects found</p>
+          {% endfor %}
+
+  {% else %}
+    <h4 class = "text-center">You need to login to continue</h4>
+  {% endif %}
+</body>
+</html>
+{% endblock %}

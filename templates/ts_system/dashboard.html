@@ -1,0 +1,168 @@
+<html>
+<head>
+</head>
+<body>
+  {% extends 'ts_system/base.html'%}
+  {% load static %}
+  {% block content %}
+  {% if user.is_authenticated %}
+
+  <a href="{% url 'export_csv_ts_data'%}" class = "export_csv" ><i class="bi bi-cloud-arrow-down"></i><span class="material-symbols-outlined"></span>    Export all Tool Status Data into a CSV</a>
+  <br><br>
+               <!-- Begin Page Content -->
+               <div class="container-fluid">
+
+
+                <!-- Content Row -->
+                <div class="row">
+
+                    <!--Total UTIDs -->
+                    <div class="col-xl-3 col-md-6 mb-4">
+                        <div class="card border-left-warning shadow h-100 py-2">
+                            <div class="card-body">
+                                <div class="row no-gutters align-items-center">
+                                    <div class="col mr-2">
+                                        <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">
+                                            Total UTIDs</div>
+                                        <div class="h5 mb-0 font-weight-bold text-gray-800">{{num_utids}}</div>
+                                    </div>
+                                    <div class="col-auto">
+                                        <i class="fas fa-comments fa-2x text-gray-300"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--Total Tester Types -->
+                    <div class="col-xl-3 col-md-6 mb-4">
+                        <div class="card border-left-warning shadow h-100 py-2">
+                            <div class="card-body">
+                                <div class="row no-gutters align-items-center">
+                                    <div class="col mr-2">
+                                        <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">
+                                            Unique Tool Types</div>
+                                        <div class="h5 mb-0 font-weight-bold text-gray-800">{{num_types}}</div>
+                                    </div>
+                                    <div class="col-auto">
+                                        <i class="fas fa-comments fa-2x text-gray-300"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--Total Empty WOs -->
+                    <div class="col-xl-3 col-md-6 mb-4">
+                        <div class="card border-left-warning shadow h-100 py-2">
+                            <div class="card-body">
+                                <div class="row no-gutters align-items-center">
+                                    <div class="col mr-2">
+                                        <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">
+                                            Total Empty WOs</div>
+                                        <div class="h5 mb-0 font-weight-bold text-gray-800">{{total_empty_wos}}</div>
+                                    </div>
+                                    <div class="col-auto">
+                                        <i class="fas fa-comments fa-2x text-gray-300"></i>
+                                    </div>
+                                </div>
+                            </div>
+                            <button type="button"><a href="/missing_wos/">Show Missing WOs...</a></button>  
+                        </div>
+                    </div>
+            <div></div>
+
+                    <!-- WOs in TS not in SAP -->
+                    <div class="col-xl-3 col-md-6 mb-4">
+                        <div class="card border-left-warning shadow h-100 py-2">
+                            <div class="card-body">
+                                <div class="row no-gutters align-items-center">
+                                    <div class="col mr-2">
+                                        <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">
+                                            WOs in TS not in SAP:</div>
+                                        <div class="h5 mb-0 font-weight-bold text-gray-800">{{num_in_TS_not_SAP}}</div>
+                                    </div>
+                                    <div class="col-auto">
+                                        <i class="fas fa-comments fa-2x text-gray-300"></i>
+                                    </div>
+                                </div>
+                            </div>
+                            <button type="button"><a href="/in_TS_not_SAP/">Show WOs...</a></button>  
+                        </div>
+                    </div>
+
+                    <!-- WOs in SAP not in TS -->
+                    <div class="col-xl-3 col-md-6 mb-4">
+                        <div class="card border-left-warning shadow h-100 py-2">
+                            <div class="card-body">
+                                <div class="row no-gutters align-items-center">
+                                    <div class="col mr-2">
+                                        <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">
+                                            WOs in SAP not in TS:</div>
+                                        <div class="h5 mb-0 font-weight-bold text-gray-800">{{num_in_SAP_not_TS}}</div>
+                                    </div>
+                                    <div class="col-auto">
+                                        <i class="fas fa-comments fa-2x text-gray-300"></i>
+                                    </div>
+                                </div>
+                            </div>
+                            <button type="button"><a href="/in_SAP_not_TS/">Show WOs...</a></button>  
+                        </div>
+                    </div>
+
+                    <!-- UTIDs in Daily not in TS -->
+                    <div class="col-xl-3 col-md-6 mb-4">
+                        <div class="card border-left-success shadow h-100 py-2">
+                            <div class="card-body">
+                                <div class="row no-gutters align-items-center">
+                                    <div class="col mr-2">
+                                        <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
+                                            # of UTIDs in Daily not in TS</div>
+                                        <div class="h5 mb-0 font-weight-bold text-gray-800">0</div>
+                                    </div>
+                                    <div class="col-auto">
+                                        <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- UTIDs shipped & not_shipped -->
+                    <div class="container my-4">
+                      <hr class="mb-5"/>
+                        <div>
+                          <canvas id="pieChart" style="max-width: 300px; max-height: 300px;"></canvas>
+                        </div>
+                      </div>
+                      <script>
+                      var ctxP = document.getElementById("pieChart").getContext('2d');
+                      var myPieChart = new Chart(ctxP, {
+                        type: 'pie',
+                        data: {
+                            // labels: {{ keys }}
+                           labels: ["Shipped", "Not Shipped"],
+                          datasets: [{
+                            // data: {{ values }}
+                            data: [{{shipped}}, {{not_shipped}}],
+                            backgroundColor: ["#8AC7E1", "#AEA7D1"],
+                            hoverBackgroundColor: ["#537787", "#68647D"]
+                          }]
+                        },
+                        options: {
+                          responsive: true
+                        }
+                      });
+                      </script>
+                    <div id="container" style="width: 75%;">
+                        <canvas id="pie-chart"></canvas>
+                    </div>
+{{labels}}
+{{data}}
+                    
+  {% else %}
+    <h4 class = "text-center">You need to login to continue</h4>
+  {% endif %}
+</body>
+</html>
+{% endblock %}

@@ -1,0 +1,62 @@
+{% extends 'ts_system/base.html'%}
+{% load static %}
+
+{% block content %}
+{% if user.is_authenticated %}
+  <html lang="en" dir="ltr">
+  <head>
+    <h1 class = "text-center">Create New UTID</h1>
+    </head>
+
+    {% if perms.ts_system.change_ts_system %}
+
+    <body>
+      <form method="POST" action="">
+        {% csrf_token %}
+
+        <h6  style="float: left">Argo ID:</h6> 
+
+          <input type="text" name="Argo_ID"/>
+
+      <br></br>
+
+      <h6  style="float: left">UTID:</h6> 
+
+      <input type="text" name="UTID"/>
+
+      <br></br>
+
+        <h6  style="float: left">Tool Family:</h6> 
+
+          <select name="tool_family">
+            <option disabled="true" selected> -- Select Family -- </option>
+            {% for family in family_list %}
+            <option> {{ family }} </option>
+            {% endfor %}
+          </select>
+
+      <br></br>
+
+        <h6  style="float: left"> Tool Status: </h6> 
+
+        <select name="tool_status">
+          <option disabled="true" selected>-- Select tool status --</option>
+          <option> Lavian </option>
+          <option> Vilar </option>
+        </select> 
+
+      <br></br>
+
+        <button type="submit">Add</button> 
+    <h4 class = "text-center">{{message}}</h4>
+
+  {% else %}   
+  <h3> {{user}}, you are not authorized to access this page. </h3>
+  {% endif %}
+
+{% else %}
+  <h4 class = "text-center">You need to login to continue</h4>
+{% endif %}
+
+{% endblock %}
+
